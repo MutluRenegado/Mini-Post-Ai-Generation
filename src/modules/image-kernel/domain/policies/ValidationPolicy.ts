@@ -1,0 +1,1 @@
+export const MINIMUM_CRITICAL_IMAGE_SCORE = 80;

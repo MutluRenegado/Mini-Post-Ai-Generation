@@ -1,0 +1,45 @@
+{
+  "name": "mini-post-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "dev:secrets": "scripts\\dev.bat",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint",
+    "deploy": "firebase deploy",
+    "deploy:hosting": "firebase deploy --only hosting",
+    "deploy:functions": "firebase deploy --only functions",
+    "test": "npx tsx scripts/test-incoterms-runtime.ts",
+    "seed:template-gallery": "node --experimental-strip-types scripts/seed-template-gallery.mjs",
+    "image-library:scan": "npx tsx scripts/image-library-sync.ts --scan",
+    "image-library:sync": "npx tsx scripts/image-library-sync.ts --sync"
+  },
+  "dependencies": {
+    "@ai-sdk/google": "^4.0.23",
+    "@types/cors": "^2.8.19",
+    "@types/express": "^5.0.6",
+    "ai": "^7.0.36",
+    "cors": "^2.8.6",
+    "firebase": "^12.16.0",
+    "firebase-admin": "^14.2.0",
+    "firebase-functions": "^7.3.2-rc.0",
+    "lucide-react": "^1.26.0",
+    "next": "16.2.11",
+    "postproxy-sdk": "^1.11.0",
+    "react": "19.2.4",
+    "react-dom": "19.2.4",
+    "zod": "^4.4.3"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.2.11",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}

@@ -1,0 +1,63 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    
+    // Posts Collection Rules
+    match /posts/{postId} {
+      // Public read access for posts & platform adaptations
+      allow read: if true;
+
+      // Allow create if title & content are valid
+      allow create: if request.resource.data.title is string
+                    && request.resource.data.title.size() >= 3
+                    && request.resource.data.content is string
+                    && request.resource.data.content.size() >= 1;
+
+      // Allow update: If document is locked, only permit update if the request is performing an unlock operation (changing status away from 'locked')
+      allow update: if ((request.auth != null && (request.auth.uid == resource.data.userId || resource.data.userId == 'guest-user')) || resource.data.userId == 'guest-user')
+                    && (resource.data.status != 'locked' || request.resource.data.status != 'locked');
+
+      // Allow delete: Completely block deletion if document is locked
+      allow delete: if ((request.auth != null && (request.auth.uid == resource.data.userId || resource.data.userId == 'guest-user')) || resource.data.userId == 'guest-user')
+                    && resource.data.status != 'locked';
+    }
+
+    // Database-backed Template Gallery
+    match /templateGallery/{templateId} {
+      // Basic and advanced templates are system-owned and readable by everyone.
+      // Private templates are visible only to their creator or explicitly shared users.
+      allow read: if (resource.data.templateGroup in ['basic', 'advanced']
+                      && resource.data.owner.type == 'system')
+                  || (request.auth != null
+                      && resource.data.templateGroup == 'private'
+                      && (resource.data.owner.id == request.auth.uid
+                          || request.auth.uid in resource.data.sharedWithUserIds));
+
+      // A creator may create only a private template owned by their own UID.
+      allow create: if request.auth != null
+                    && request.resource.data.templateGroup == 'private'
+                    && request.resource.data.owner.type == 'creator'
+                    && request.resource.data.owner.id == request.auth.uid
+                    && request.resource.data.owner.name is string
+                    && request.resource.data.owner.surname is string
+                    && request.resource.data.visibility in ['private', 'shared'];
+
+      // Only the private-template owner can edit sharing, metadata or delete it.
+      // The owner identity and template group cannot be changed.
+      allow update: if request.auth != null
+                    && resource.data.templateGroup == 'private'
+                    && resource.data.owner.id == request.auth.uid
+                    && request.resource.data.owner == resource.data.owner
+                    && request.resource.data.templateGroup == resource.data.templateGroup;
+
+      allow delete: if request.auth != null
+                    && resource.data.templateGroup == 'private'
+                    && resource.data.owner.id == request.auth.uid;
+    }
+
+    // User Profile Documents Rules
+    match /users/{userId}/{allPaths=**} {
+      allow read, write: if request.auth != null && request.auth.uid == userId;
+    }
+  }
+}

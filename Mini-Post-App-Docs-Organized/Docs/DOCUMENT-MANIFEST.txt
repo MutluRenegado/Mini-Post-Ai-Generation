@@ -1,0 +1,296 @@
+README.md
+docs/01-Project-Guides/Caching.md
+docs/01-Project-Guides/Error-Handling.md
+docs/01-Project-Guides/Security.md
+docs/01-Project-Guides/Storage.md
+docs/01-Project-Guides/Testing.md
+docs/01-Project-Guides/Troubleshooting.md
+docs/02-AI-Systems/Image Creation Modules/01_image_system_inventory.md
+docs/02-AI-Systems/Image Creation Modules/02_image_architecture.md
+docs/02-AI-Systems/Image Creation Modules/03_image_pipeline.md
+docs/02-AI-Systems/Image Creation Modules/04_prompt_generation.md
+docs/02-AI-Systems/Image Creation Modules/05_visual_brief.md
+docs/02-AI-Systems/Image Creation Modules/06_visual_concept.md
+docs/02-AI-Systems/Image Creation Modules/07_provider_router.md
+docs/02-AI-Systems/Image Creation Modules/08_image_validation.md
+docs/02-AI-Systems/Image Creation Modules/09_feedback_learning.md
+docs/02-AI-Systems/Image Creation Modules/10_reference_photos.md
+docs/02-AI-Systems/Image Creation Modules/11_storage.md
+docs/02-AI-Systems/Image Creation Modules/12_api_routes.md
+docs/02-AI-Systems/Image Creation Modules/13_ui_components.md
+docs/02-AI-Systems/Image Creation Modules/14_dependencies.md
+docs/02-AI-Systems/Image Creation Modules/15_import_export_map.md
+docs/02-AI-Systems/Image Creation Modules/16_runtime_flow.md
+docs/02-AI-Systems/Image Creation Modules/17_tests.md
+docs/02-AI-Systems/Image Creation Modules/18_known_issues.md
+docs/02-AI-Systems/Image Creation Modules/19_manual_review.md
+docs/02-AI-Systems/Image Creation Modules/20_final_report.md
+docs/02-AI-Systems/Image Creation Modules/40_image_library_module.md
+docs/02-AI-Systems/Image Creation Modules/41_image_library_architecture.md
+docs/02-AI-Systems/Image Creation Modules/42_image_library_data_model.md
+docs/02-AI-Systems/Image Creation Modules/43_image_library_upload.md
+docs/02-AI-Systems/Image Creation Modules/44_image_library_import.md
+docs/02-AI-Systems/Image Creation Modules/45_image_library_metadata.md
+docs/02-AI-Systems/Image Creation Modules/46_image_library_review.md
+docs/02-AI-Systems/Image Creation Modules/47_image_library_rights.md
+docs/02-AI-Systems/Image Creation Modules/48_image_library_search.md
+docs/02-AI-Systems/Image Creation Modules/49_image_library_security.md
+docs/02-AI-Systems/Image Creation Modules/50_image_library_testing.md
+docs/02-AI-Systems/Image Creation Modules/51_image_library_manual_review.md
+docs/02-AI-Systems/Image Creation Modules/52_image_library_final_report.md
+docs/02-AI-Systems/Image Creation Modules/53_visual_intelligence_engine.md
+docs/02-AI-Systems/Image Creation Modules/54_folder_synchronizer.md
+docs/02-AI-Systems/Image Creation Modules/55_metadata_retrieval.md
+docs/02-AI-Systems/Image Creation Modules/56_transparent_ranking.md
+docs/02-AI-Systems/Image Creation Modules/57_diversity_control.md
+docs/02-AI-Systems/Image Creation Modules/58_reference_resolver.md
+docs/02-AI-Systems/Image Creation Modules/59_phase2_canonical_integration.md
+docs/02-AI-Systems/Image Creation Modules/60_phase2_testing.md
+docs/02-AI-Systems/Image Creation Modules/61_phase2_manual_review.md
+docs/02-AI-Systems/Image Creation Modules/62_phase2_final_report.md
+docs/02-AI-Systems/Image Creation Modules/README.md
+docs/02-AI-Systems/Image-Generator/Image-Intelligence/README.md
+docs/02-AI-Systems/Image-Generator/Image-Intelligence/existing_image_pipeline_map.md
+docs/02-AI-Systems/Image-Generator/Image-Intelligence/existing_intelligence_inventory.md
+docs/02-AI-Systems/Image-Generator/Image-Intelligence/final_discovery_report.md
+docs/02-AI-Systems/Image-Generator/Image-Intelligence/final_text_first_audit.md
+docs/02-AI-Systems/Image-Generator/Image-Intelligence/image_feedback_audit.md
+docs/02-AI-Systems/Image-Generator/Image-Intelligence/image_intelligence_prebuild_audit.md
+docs/02-AI-Systems/Image-Generator/Image-Intelligence/manual_review.md
+docs/02-AI-Systems/Image-Generator/Image-Intelligence/module_feasibility_report.md
+docs/02-AI-Systems/Image-Generator/Image-Intelligence/recommended_architecture.md
+docs/02-AI-Systems/Image-Generator/Image-Intelligence/reference_photo_readiness.md
+docs/02-AI-Systems/Image-Generator/Image-Intelligence/visual_concept_audit.md
+docs/02-AI-Systems/Image-Generator/Image-Intelligence/visual_knowledge_base_audit.md
+docs/02-AI-Systems/Image-Generator/Pipeline-Repair/README.md
+docs/02-AI-Systems/Image-Generator/Pipeline-Repair/final_report.md
+docs/02-AI-Systems/Image-Generator/Pipeline-Repair/final_text_gate.md
+docs/02-AI-Systems/Image-Generator/Pipeline-Repair/image_pipeline_prebuild_audit.md
+docs/02-AI-Systems/Image-Generator/Pipeline-Repair/image_prompt_model.md
+docs/02-AI-Systems/Image-Generator/Pipeline-Repair/image_validation_model.md
+docs/02-AI-Systems/Image-Generator/Pipeline-Repair/manual_review.md
+docs/02-AI-Systems/Image-Generator/Pipeline-Repair/provider_router.md
+docs/02-AI-Systems/Image-Generator/Pipeline-Repair/regression_test_report.md
+docs/02-AI-Systems/Image-Generator/Pipeline-Repair/retry_strategy.md
+docs/02-AI-Systems/Image-Generator/Pipeline-Repair/text_summary_stage.md
+docs/02-AI-Systems/Image-Generator/Pipeline-Repair/visual_brief_model.md
+docs/02-AI-Systems/Image-Generator/Pipeline-Repair/visual_concept_resolution.md
+docs/03-Product-and-Company/Company/company-pages-migration-manifest.md
+docs/03-Product-and-Company/Company/company_module_accessibility_report.md
+docs/03-Product-and-Company/Company/company_module_architecture.md
+docs/03-Product-and-Company/Company/company_module_cleanup_report.md
+docs/03-Product-and-Company/Company/company_module_content_inventory.md
+docs/03-Product-and-Company/Company/company_module_final_report.md
+docs/03-Product-and-Company/Company/company_module_manual_review.md
+docs/03-Product-and-Company/Company/company_module_navigation_map.md
+docs/03-Product-and-Company/Company/company_module_prebuild_audit.md
+docs/03-Product-and-Company/Company/company_module_redirect_map.md
+docs/03-Product-and-Company/Company/company_module_route_map.md
+docs/03-Product-and-Company/Company/company_module_seo_report.md
+docs/03-Product-and-Company/Company/company_module_validation_report.md
+docs/03-Product-and-Company/Company/company_pages_manual_review.md
+docs/03-Product-and-Company/Help-System/README.md
+docs/03-Product-and-Company/Help-System/helping_items_manual_review.md
+docs/03-Product-and-Company/Help-System/helping_module_accessibility_report.md
+docs/03-Product-and-Company/Help-System/helping_module_architecture.md
+docs/03-Product-and-Company/Help-System/helping_module_content_inventory.md
+docs/03-Product-and-Company/Help-System/helping_module_coverage_report.md
+docs/03-Product-and-Company/Help-System/helping_module_final_report.md
+docs/03-Product-and-Company/Help-System/helping_module_integration_map.md
+docs/03-Product-and-Company/Help-System/helping_module_manual_review.md
+docs/03-Product-and-Company/Help-System/helping_module_prebuild_audit.md
+docs/03-Product-and-Company/Help-System/helping_module_registry.md
+docs/03-Product-and-Company/Help-System/helping_module_validation_report.md
+docs/03-Product-and-Company/Studio-Simplification/studio_wizard_simplification_report.md
+docs/04-Architecture-and-Engineering/Import-Export-System/README.md
+docs/04-Architecture-and-Engineering/Import-Export-System/barrel_export_inventory.md
+docs/04-Architecture-and-Engineering/Import-Export-System/canonical_directory_map.md
+docs/04-Architecture-and-Engineering/Import-Export-System/case_sensitivity_report.md
+docs/04-Architecture-and-Engineering/Import-Export-System/circular_dependency_report.md
+docs/04-Architecture-and-Engineering/Import-Export-System/deep_relative_import_report.md
+docs/04-Architecture-and-Engineering/Import-Export-System/deprecated_import_report.md
+docs/04-Architecture-and-Engineering/Import-Export-System/duplicate_export_report.md
+docs/04-Architecture-and-Engineering/Import-Export-System/dynamic_import_report.md
+docs/04-Architecture-and-Engineering/Import-Export-System/final_report.md
+docs/04-Architecture-and-Engineering/Import-Export-System/import_export_migration_report.md
+docs/04-Architecture-and-Engineering/Import-Export-System/import_export_prebuild_audit.md
+docs/04-Architecture-and-Engineering/Import-Export-System/import_export_validation_report.md
+docs/04-Architecture-and-Engineering/Import-Export-System/manual_review.md
+docs/04-Architecture-and-Engineering/Import-Export-System/module_public_api_map.md
+docs/04-Architecture-and-Engineering/Import-Export-System/path_alias_map.md
+docs/04-Architecture-and-Engineering/Import-Export-System/stale_import_report.md
+docs/04-Architecture-and-Engineering/Integrations/README.md
+docs/05-Platform/architecture/01_overview.md
+docs/05-Platform/intelligence/01_phase_2b_overview.md
+docs/05-Platform/intelligence/02_metadata_retrieval.md
+docs/05-Platform/intelligence/03_query_model.md
+docs/05-Platform/intelligence/04_candidate_filtering.md
+docs/05-Platform/intelligence/05_transparent_ranking.md
+docs/05-Platform/intelligence/06_ranking_weights.md
+docs/05-Platform/intelligence/07_diversity_control.md
+docs/05-Platform/intelligence/08_visual_reference_resolver.md
+docs/05-Platform/intelligence/09_reference_enrichment.md
+docs/05-Platform/intelligence/10_retrieval_audit.md
+docs/05-Platform/intelligence/11_calibration_dataset.md
+docs/05-Platform/intelligence/12_retrieval_inspector.md
+docs/05-Platform/intelligence/13_phase_2b_testing.md
+docs/05-Platform/intelligence/14_phase_2b_manual_review.md
+docs/05-Platform/intelligence/15_phase_2b_final_report.md
+docs/05-Platform/library/01_ingestion_and_sync.md
+docs/05-Platform/library/02_rights_and_review.md
+docs/05-Platform/manual-review/01_manual_review.md
+docs/05-Platform/providers/pexels/01_pexels_integration_overview.md
+docs/05-Platform/providers/pexels/02_pexels_provider_architecture.md
+docs/05-Platform/providers/pexels/03_pexels_secret_configuration.md
+docs/05-Platform/providers/pexels/04_pexels_api_routes.md
+docs/05-Platform/providers/pexels/05_pexels_admin_interface.md
+docs/05-Platform/providers/pexels/06_pexels_selective_import.md
+docs/05-Platform/providers/pexels/07_pexels_metadata_and_attribution.md
+docs/05-Platform/providers/pexels/08_pexels_duplicate_control.md
+docs/05-Platform/providers/pexels/09_pexels_rate_limits.md
+docs/05-Platform/providers/pexels/10_pexels_security.md
+docs/05-Platform/providers/pexels/11_pexels_testing.md
+docs/05-Platform/providers/pexels/12_pexels_manual_review.md
+docs/05-Platform/providers/pexels/13_pexels_final_report.md
+docs/05-Platform/testing/01_test_matrix.md
+docs/06-Providers/Adding-New-Provider.md
+docs/06-Providers/Attribution-Rules.md
+docs/06-Providers/Canonical-Image-Model.md
+docs/06-Providers/Licensing-Compliance.md
+docs/06-Providers/Pexels/API.md
+docs/06-Providers/Pexels/Architecture.md
+docs/06-Providers/Pexels/Attribution.md
+docs/06-Providers/Pexels/Authentication.md
+docs/06-Providers/Pexels/Caching.md
+docs/06-Providers/Pexels/Changelog.md
+docs/06-Providers/Pexels/Configuration.md
+docs/06-Providers/Pexels/Endpoints.md
+docs/06-Providers/Pexels/Error-Handling.md
+docs/06-Providers/Pexels/Future-Roadmap.md
+docs/06-Providers/Pexels/Image-Model.md
+docs/06-Providers/Pexels/Licensing.md
+docs/06-Providers/Pexels/Mapping.md
+docs/06-Providers/Pexels/README.md
+docs/06-Providers/Pexels/Rate-Limits.md
+docs/06-Providers/Pexels/Search.md
+docs/06-Providers/Pexels/Secret-Manager.md
+docs/06-Providers/Pexels/Security.md
+docs/06-Providers/Pexels/Storage.md
+docs/06-Providers/Pexels/Testing.md
+docs/06-Providers/Pexels/Troubleshooting.md
+docs/06-Providers/Pixabay/API.md
+docs/06-Providers/Pixabay/Architecture.md
+docs/06-Providers/Pixabay/Attribution.md
+docs/06-Providers/Pixabay/Authentication.md
+docs/06-Providers/Pixabay/Caching.md
+docs/06-Providers/Pixabay/Changelog.md
+docs/06-Providers/Pixabay/Configuration.md
+docs/06-Providers/Pixabay/Endpoints.md
+docs/06-Providers/Pixabay/Error-Handling.md
+docs/06-Providers/Pixabay/Future-Roadmap.md
+docs/06-Providers/Pixabay/Image-Model.md
+docs/06-Providers/Pixabay/Licensing.md
+docs/06-Providers/Pixabay/Mapping.md
+docs/06-Providers/Pixabay/README.md
+docs/06-Providers/Pixabay/Rate-Limits.md
+docs/06-Providers/Pixabay/Search.md
+docs/06-Providers/Pixabay/Secret-Manager.md
+docs/06-Providers/Pixabay/Security.md
+docs/06-Providers/Pixabay/Storage.md
+docs/06-Providers/Pixabay/Testing.md
+docs/06-Providers/Pixabay/Troubleshooting.md
+docs/06-Providers/Provider-Architecture-Standard.md
+docs/06-Providers/Provider-Checklist.md
+docs/06-Providers/Provider-Development-Guide.md
+docs/06-Providers/Provider-Registry.md
+docs/06-Providers/Provider-Router.md
+docs/06-Providers/README.md
+docs/06-Providers/Secret-Manager-Guide.md
+docs/06-Providers/Security-Requirements.md
+docs/06-Providers/Shared-Guides/Rate-Limits.md
+docs/06-Providers/Subprocessor-Audit.md
+docs/06-Providers/Testing-Standards.md
+docs/06-Providers/create-provider-docs.bat
+docs/06-Providers/unsplash/API.md
+docs/06-Providers/unsplash/Architecture.md
+docs/06-Providers/unsplash/Attribution.md
+docs/06-Providers/unsplash/Authentication.md
+docs/06-Providers/unsplash/Caching.md
+docs/06-Providers/unsplash/Changelog.md
+docs/06-Providers/unsplash/Configuration.md
+docs/06-Providers/unsplash/Download-Tracking.md
+docs/06-Providers/unsplash/Endpoints.md
+docs/06-Providers/unsplash/Error-Handling.md
+docs/06-Providers/unsplash/Future-Roadmap.md
+docs/06-Providers/unsplash/Image-Model.md
+docs/06-Providers/unsplash/Licensing.md
+docs/06-Providers/unsplash/Mapping.md
+docs/06-Providers/unsplash/README.md
+docs/06-Providers/unsplash/Rate-Limits.md
+docs/06-Providers/unsplash/Search.md
+docs/06-Providers/unsplash/Secret-Manager.md
+docs/06-Providers/unsplash/Security.md
+docs/06-Providers/unsplash/Storage.md
+docs/06-Providers/unsplash/Testing.md
+docs/06-Providers/unsplash/Troubleshooting.md
+docs/07-Legal-and-Compliance/Attribution.md
+docs/07-Legal-and-Compliance/Legal-Modules/README.md
+docs/07-Legal-and-Compliance/Legal-Modules/legal_module_accessibility_report.md
+docs/07-Legal-and-Compliance/Legal-Modules/legal_module_architecture.md
+docs/07-Legal-and-Compliance/Legal-Modules/legal_module_cleanup_report.md
+docs/07-Legal-and-Compliance/Legal-Modules/legal_module_content_inventory.md
+docs/07-Legal-and-Compliance/Legal-Modules/legal_module_cookie_audit.md
+docs/07-Legal-and-Compliance/Legal-Modules/legal_module_data_rights_audit.md
+docs/07-Legal-and-Compliance/Legal-Modules/legal_module_documentation_migration.md
+docs/07-Legal-and-Compliance/Legal-Modules/legal_module_documentation_report.md
+docs/07-Legal-and-Compliance/Legal-Modules/legal_module_final_report.md
+docs/07-Legal-and-Compliance/Legal-Modules/legal_module_manual_review.md
+docs/07-Legal-and-Compliance/Legal-Modules/legal_module_migration_report.md
+docs/07-Legal-and-Compliance/Legal-Modules/legal_module_navigation_map.md
+docs/07-Legal-and-Compliance/Legal-Modules/legal_module_prebuild_audit.md
+docs/07-Legal-and-Compliance/Legal-Modules/legal_module_privacy_audit.md
+docs/07-Legal-and-Compliance/Legal-Modules/legal_module_redirect_map.md
+docs/07-Legal-and-Compliance/Legal-Modules/legal_module_route_map.md
+docs/07-Legal-and-Compliance/Legal-Modules/legal_module_seo_report.md
+docs/07-Legal-and-Compliance/Legal-Modules/legal_module_validation_report.md
+docs/07-Legal-and-Compliance/Legal-Modules/legal_module_versioning.md
+docs/07-Legal-and-Compliance/Legal-Modules/legal_pages_manual_review.md
+docs/07-Legal-and-Compliance/Licensing.md
+docs/08-Standards/Standards-Modules/README.md
+docs/08-Standards/Standards-Modules/standards_module_accessibility_report.md
+docs/08-Standards/Standards-Modules/standards_module_architecture.md
+docs/08-Standards/Standards-Modules/standards_module_cleanup_report.md
+docs/08-Standards/Standards-Modules/standards_module_documentation_migration.md
+docs/08-Standards/Standards-Modules/standards_module_documentation_report.md
+docs/08-Standards/Standards-Modules/standards_module_final_report.md
+docs/08-Standards/Standards-Modules/standards_module_integration_map.md
+docs/08-Standards/Standards-Modules/standards_module_manual_review.md
+docs/08-Standards/Standards-Modules/standards_module_migration_report.md
+docs/08-Standards/Standards-Modules/standards_module_prebuild_audit.md
+docs/08-Standards/Standards-Modules/standards_module_public_standards_map.md
+docs/08-Standards/Standards-Modules/standards_module_registry.md
+docs/08-Standards/Standards-Modules/standards_module_seo_report.md
+docs/08-Standards/Standards-Modules/standards_module_standards_review.md
+docs/08-Standards/Standards-Modules/standards_module_test_report.md
+docs/08-Standards/Standards-Modules/standards_module_validation_model.md
+docs/08-Standards/Standards-Modules/standards_module_validation_report.md
+docs/08-Standards/Standards-Modules/standards_module_versioning.md
+docs/08-Standards/Standards-System/README.md
+docs/08-Standards/Standards-System/architecture/standards_architecture.md
+docs/08-Standards/Standards-System/discovery/standards_prebuild_audit.md
+docs/08-Standards/Standards-System/final_report.md
+docs/08-Standards/Standards-System/framework-mapping/adopted_standards_registry.md
+docs/08-Standards/Standards-System/framework-mapping/alignment_gap_report.md
+docs/08-Standards/Standards-System/framework-mapping/master_alignment_matrix.md
+docs/08-Standards/Standards-System/framework-mapping/standards_conflict_register.md
+docs/08-Standards/Standards-System/governance/external_standards_update_process.md
+docs/08-Standards/Standards-System/governance/standards_exception_process.md
+docs/08-Standards/Standards-System/integration/studioos_integration.md
+docs/08-Standards/Standards-System/manual-review/alignment_manual_review.md
+docs/08-Standards/Standards-System/manual-review/individual_standards_review.md
+docs/08-Standards/Standards-System/manual-review/standards_system_manual_review.md
+docs/08-Standards/Standards-System/registry/standards_registry.md
+docs/08-Standards/Standards-System/testing/standards_test_report.md
+docs/08-Standards/Standards-System/validation/validation_model.md
+docs/10-Project-History/CHANGELOG.md
+docs/10-Project-History/Future-Roadmap.md

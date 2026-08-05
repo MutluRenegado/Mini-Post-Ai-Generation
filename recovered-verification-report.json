@@ -1,0 +1,292 @@
+[
+  {
+    "relPath": "echo",
+    "status": "WORKING",
+    "details": "File intact and present"
+  },
+  {
+    "relPath": "public/LOGO.png",
+    "status": "WORKING",
+    "details": "Binary PNG asset valid (161241 bytes)"
+  },
+  {
+    "relPath": "public/Logowhitbackground.png",
+    "status": "WORKING",
+    "details": "Binary PNG asset valid (372394 bytes)"
+  },
+  {
+    "relPath": "src/lib/ai/analytics/GenerationAnalytics.ts",
+    "status": "WORKING",
+    "details": "TypeScript source module clean (654 bytes, exports validated)"
+  },
+  {
+    "relPath": "src/lib/ai/analytics/QualityMetrics.ts",
+    "status": "WORKING",
+    "details": "TypeScript source module clean (254 bytes, exports validated)"
+  },
+  {
+    "relPath": "src/lib/ai/config/StudioConfig.ts",
+    "status": "WORKING",
+    "details": "TypeScript source module clean (794 bytes, exports validated)"
+  },
+  {
+    "relPath": "src/lib/ai/images/CanonicalImageService.ts",
+    "status": "WORKING",
+    "details": "TypeScript source module clean (95 bytes, exports validated)"
+  },
+  {
+    "relPath": "src/lib/ai/intelligence/EntityExtractor.ts",
+    "status": "WORKING",
+    "details": "TypeScript source module clean (1954 bytes, exports validated)"
+  },
+  {
+    "relPath": "src/lib/ai/intelligence/IntentDetector.ts",
+    "status": "WORKING",
+    "details": "TypeScript source module clean (4199 bytes, exports validated)"
+  },
+  {
+    "relPath": "src/lib/ai/intelligence/KeywordExtractor.ts",
+    "status": "WORKING",
+    "details": "TypeScript source module clean (1995 bytes, exports validated)"
+  },
+  {
+    "relPath": "src/lib/ai/intelligence/TopicAnalyzer.ts",
+    "status": "WORKING",
+    "details": "TypeScript source module clean (10803 bytes, exports validated)"
+  },
+  {
+    "relPath": "src/lib/ai/knowledge/BenefitBuilder.ts",
+    "status": "WORKING",
+    "details": "TypeScript source module clean (1418 bytes, exports validated)"
+  },
+  {
+    "relPath": "src/lib/ai/knowledge/DefinitionBuilder.ts",
+    "status": "WORKING",
+    "details": "TypeScript source module clean (1042 bytes, exports validated)"
+  },
+  {
+    "relPath": "src/lib/ai/knowledge/ExampleBuilder.ts",
+    "status": "WORKING",
+    "details": "TypeScript source module clean (946 bytes, exports validated)"
+  },
+  {
+    "relPath": "src/lib/ai/knowledge/FAQBuilder.ts",
+    "status": "WORKING",
+    "details": "TypeScript source module clean (1270 bytes, exports validated)"
+  },
+  {
+    "relPath": "src/lib/ai/knowledge/KnowledgeEngine.ts",
+    "status": "WORKING",
+    "details": "TypeScript source module clean (2424 bytes, exports validated)"
+  },
+  {
+    "relPath": "src/lib/ai/knowledge/ProblemBuilder.ts",
+    "status": "WORKING",
+    "details": "TypeScript source module clean (1258 bytes, exports validated)"
+  },
+  {
+    "relPath": "src/lib/ai/knowledge/StatisticsBuilder.ts",
+    "status": "WORKING",
+    "details": "TypeScript source module clean (1100 bytes, exports validated)"
+  },
+  {
+    "relPath": "src/lib/ai/learning/LearningEngine.ts",
+    "status": "WORKING",
+    "details": "TypeScript source module clean (958 bytes, exports validated)"
+  },
+  {
+    "relPath": "src/lib/ai/logging/Logger.ts",
+    "status": "WORKING",
+    "details": "TypeScript source module clean (1447 bytes, exports validated)"
+  },
+  {
+    "relPath": "src/lib/ai/memory/PromptMemory.ts",
+    "status": "WORKING",
+    "details": "TypeScript source module clean (285 bytes, exports validated)"
+  },
+  {
+    "relPath": "src/lib/ai/memory/SuccessfulPatternStore.ts",
+    "status": "WORKING",
+    "details": "TypeScript source module clean (547 bytes, exports validated)"
+  },
+  {
+    "relPath": "src/lib/ai/models/ai.types.ts",
+    "status": "WORKING",
+    "details": "TypeScript source module clean (11706 bytes, exports validated)"
+  },
+  {
+    "relPath": "src/lib/ai/optimization/ContentOptimizer.ts",
+    "status": "WORKING",
+    "details": "TypeScript source module clean (707 bytes, exports validated)"
+  },
+  {
+    "relPath": "src/lib/ai/optimization/HashtagOptimizer.ts",
+    "status": "WORKING",
+    "details": "TypeScript source module clean (495 bytes, exports validated)"
+  },
+  {
+    "relPath": "src/lib/ai/optimization/ReadabilityOptimizer.ts",
+    "status": "WORKING",
+    "details": "TypeScript source module clean (241 bytes, exports validated)"
+  },
+  {
+    "relPath": "src/lib/ai/optimization/SEOOptimizer.ts",
+    "status": "WORKING",
+    "details": "TypeScript source module clean (403 bytes, exports validated)"
+  },
+  {
+    "relPath": "src/lib/ai/orchestrator/PromptOrchestrator.ts",
+    "status": "WORKING",
+    "details": "TypeScript source module clean (14982 bytes, exports validated)"
+  },
+  {
+    "relPath": "src/lib/ai/planning/CTAPlanner.ts",
+    "status": "WORKING",
+    "details": "TypeScript source module clean (1611 bytes, exports validated)"
+  },
+  {
+    "relPath": "src/lib/ai/planning/ContentBlueprint.ts",
+    "status": "WORKING",
+    "details": "TypeScript source module clean (2619 bytes, exports validated)"
+  },
+  {
+    "relPath": "src/lib/ai/planning/HookPlanner.ts",
+    "status": "WORKING",
+    "details": "TypeScript source module clean (1182 bytes, exports validated)"
+  },
+  {
+    "relPath": "src/lib/ai/planning/OutlinePlanner.ts",
+    "status": "WORKING",
+    "details": "TypeScript source module clean (2037 bytes, exports validated)"
+  },
+  {
+    "relPath": "src/lib/ai/prompts/ImagePromptBuilder.ts",
+    "status": "WORKING",
+    "details": "TypeScript source module clean (13567 bytes, exports validated)"
+  },
+  {
+    "relPath": "src/lib/ai/prompts/MasterPromptBuilder.ts",
+    "status": "WORKING",
+    "details": "TypeScript source module clean (6046 bytes, exports validated)"
+  },
+  {
+    "relPath": "src/lib/ai/prompts/PlatformPromptBuilder.ts",
+    "status": "WORKING",
+    "details": "TypeScript source module clean (3629 bytes, exports validated)"
+  },
+  {
+    "relPath": "src/lib/ai/providers/AIProviderRouter.ts",
+    "status": "WORKING",
+    "details": "TypeScript source module clean (1299 bytes, exports validated)"
+  },
+  {
+    "relPath": "src/lib/ai/providers/ClaudeProvider.ts",
+    "status": "WORKING",
+    "details": "TypeScript source module clean (661 bytes, exports validated)"
+  },
+  {
+    "relPath": "src/lib/ai/providers/GeminiProvider.ts",
+    "status": "WORKING",
+    "details": "TypeScript source module clean (1979 bytes, exports validated)"
+  },
+  {
+    "relPath": "src/lib/ai/providers/OpenAIProvider.ts",
+    "status": "WORKING",
+    "details": "TypeScript source module clean (757 bytes, exports validated)"
+  },
+  {
+    "relPath": "src/lib/ai/providers/ProviderHealthMonitor.ts",
+    "status": "WORKING",
+    "details": "TypeScript source module clean (724 bytes, exports validated)"
+  },
+  {
+    "relPath": "src/lib/ai/reasoning/ContentReasoner.ts",
+    "status": "WORKING",
+    "details": "TypeScript source module clean (1360 bytes, exports validated)"
+  },
+  {
+    "relPath": "src/lib/ai/reasoning/ContradictionDetector.ts",
+    "status": "WORKING",
+    "details": "TypeScript source module clean (453 bytes, exports validated)"
+  },
+  {
+    "relPath": "src/lib/ai/reasoning/MultiStepReasoner.ts",
+    "status": "WORKING",
+    "details": "TypeScript source module clean (1321 bytes, exports validated)"
+  },
+  {
+    "relPath": "src/lib/ai/reasoning/TopicReasoner.ts",
+    "status": "WORKING",
+    "details": "TypeScript source module clean (515 bytes, exports validated)"
+  },
+  {
+    "relPath": "src/lib/ai/repair/RegenerationEngine.ts",
+    "status": "WORKING",
+    "details": "TypeScript source module clean (1348 bytes, exports validated)"
+  },
+  {
+    "relPath": "src/lib/ai/retrieval/KnowledgeCache.ts",
+    "status": "WORKING",
+    "details": "TypeScript source module clean (509 bytes, exports validated)"
+  },
+  {
+    "relPath": "src/lib/ai/retrieval/RetrievalEngine.ts",
+    "status": "WORKING",
+    "details": "TypeScript source module clean (757 bytes, exports validated)"
+  },
+  {
+    "relPath": "src/lib/ai/retrieval/SourceCollector.ts",
+    "status": "WORKING",
+    "details": "TypeScript source module clean (637 bytes, exports validated)"
+  },
+  {
+    "relPath": "src/lib/ai/security/InputSanitizer.ts",
+    "status": "WORKING",
+    "details": "TypeScript source module clean (698 bytes, exports validated)"
+  },
+  {
+    "relPath": "src/lib/ai/strategy/AudienceAnalyzer.ts",
+    "status": "WORKING",
+    "details": "TypeScript source module clean (5188 bytes, exports validated)"
+  },
+  {
+    "relPath": "src/lib/ai/strategy/ContentStrategyEngine.ts",
+    "status": "WORKING",
+    "details": "TypeScript source module clean (4375 bytes, exports validated)"
+  },
+  {
+    "relPath": "src/lib/ai/strategy/PlatformStrategy.ts",
+    "status": "WORKING",
+    "details": "TypeScript source module clean (10731 bytes, exports validated)"
+  },
+  {
+    "relPath": "src/lib/ai/strategy/ToneEngine.ts",
+    "status": "WORKING",
+    "details": "TypeScript source module clean (6312 bytes, exports validated)"
+  },
+  {
+    "relPath": "src/lib/ai/validation/OutputValidator.ts",
+    "status": "WORKING",
+    "details": "TypeScript source module clean (4146 bytes, exports validated)"
+  },
+  {
+    "relPath": "src/lib/ai/validation/QualityAuditor.ts",
+    "status": "WORKING",
+    "details": "TypeScript source module clean (8743 bytes, exports validated)"
+  },
+  {
+    "relPath": "src/lib/ai/verification/CitationValidator.ts",
+    "status": "WORKING",
+    "details": "TypeScript source module clean (348 bytes, exports validated)"
+  },
+  {
+    "relPath": "src/lib/ai/verification/ConfidenceEngine.ts",
+    "status": "WORKING",
+    "details": "TypeScript source module clean (488 bytes, exports validated)"
+  },
+  {
+    "relPath": "src/lib/ai/verification/FactChecker.ts",
+    "status": "WORKING",
+    "details": "TypeScript source module clean (834 bytes, exports validated)"
+  }
+]

@@ -1,0 +1,4 @@
+fix: SSR fallback protection for Firestore and restore official gemini-2.5-flash model IDs
+
+- Protect postsRepository.getAllPosts() during server-side rendering (SSR) to prevent Node webchannel crashes in serverless containers
+- Restore official supported Google Gemini model identifier (gemini-2.5-flash) across Vercel AI SDK call sites

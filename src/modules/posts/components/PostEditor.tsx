@@ -1,0 +1,1 @@
+export { MultiPlatformStudio as PostEditor } from './MultiPlatformStudio';

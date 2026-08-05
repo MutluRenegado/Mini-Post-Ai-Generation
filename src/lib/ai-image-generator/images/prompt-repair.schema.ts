@@ -1,0 +1,65 @@
+import { z } from 'zod';
+
+export const PromptValidationSeveritySchema = z.enum(['info', 'warning', 'error', 'blocking']);
+
+export const PromptValidationFindingSchema = z.object({
+  id: z.string().min(1),
+  code: z.string().min(1),
+  section: z.enum([
+    'subject',
+    'environment',
+    'composition',
+    'lighting',
+    'color',
+    'style',
+    'platform',
+    'constraints',
+    'userRefinement',
+    'promptText',
+    'negativePromptText',
+  ]),
+  severity: PromptValidationSeveritySchema,
+  message: z.string().min(1),
+  repairable: z.boolean(),
+  suggestedAction: z.string().optional(),
+});
+
+export const PromptValidationResultSchema = z.object({
+  valid: z.boolean(),
+  providerReady: z.boolean(),
+  findings: z.array(PromptValidationFindingSchema),
+  blockingFindings: z.number().min(0),
+  warningFindings: z.number().min(0),
+  validatedAt: z.string().min(1),
+
+  relevanceScore: z.number(),
+  specificityScore: z.number(),
+  platformScore: z.number(),
+  brandScore: z.number(),
+  modernityScore: z.number(),
+  colourScore: z.number(),
+  shareabilityScore: z.number(),
+  subjectClarityScore: z.number(),
+  topicAccuracyScore: z.number(),
+  communicationClarityScore: z.number(),
+  primarySubjectProminenceScore: z.number(),
+  domainConsistencyScore: z.number(),
+  primarySubjectCoverageScore: z.number(),
+  overallSemanticScore: z.number(),
+  failedThresholds: z.array(z.string()),
+  categoryScores: z.object({
+    domainConsistency: z.number(),
+    primarySubjectAccuracy: z.number(),
+    sceneConsistency: z.number(),
+    keyObjectAccuracy: z.number(),
+    visualNarrativeAccuracy: z.number(),
+    environmentAccuracy: z.number(),
+    peopleRoleAccuracy: z.number(),
+    abstractConceptTranslation: z.number(),
+    platformAdaptation: z.number(),
+    promptCompleteness: z.number(),
+  }),
+  hardFailures: z.array(z.any()),
+  errors: z.array(z.any()),
+  problems: z.array(z.any()),
+});

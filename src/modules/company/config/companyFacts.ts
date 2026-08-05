@@ -1,0 +1,38 @@
+export const COMPANY_FACTS = {
+  productName: 'Mini Post App',
+  primaryDomain: 'minipostapp.space',
+  baseUrl: 'https://minipostapp.space',
+  operatingEntity: 'Yoga Products Top Limited',
+  supportEmail: 'support@minipostapp.space',
+  deletionEmail: 'deletion@minipostapp.space',
+  pressEmail: 'support@minipostapp.space',
+  privacyEmail: 'support@minipostapp.space',
+  dpoEmail: 'support@minipostapp.space',
+  primaryPurpose:
+    'Personal and business social-content creation, optimisation, publishing, scheduling, and analysis.',
+  workflow: 'Create → Optimise → Publish → Analyse',
+  supportedSocialPlatforms: [
+    'Facebook Pages & Groups',
+    'Instagram Feed & Stories',
+    'LinkedIn Posts & Articles',
+    'X (Twitter) Threads',
+    'TikTok Scripts & Captions',
+    'YouTube Shorts Scripts',
+  ],
+  techStack: {
+    framework: 'Next.js 16 (App Router)',
+    language: 'TypeScript',
+    styling: 'Tailwind CSS & Modern CSS Design System',
+    aiEngine: 'Google Gemini AI Flash Architecture',
+    database: 'Firebase Firestore & Cloud Storage',
+    auth: 'Firebase Authentication',
+    tokenSecurity: 'AES-256 Vault Encryption & TLS 1.3 Transport Security',
+    payments: 'Stripe Subscription Infrastructure',
+  },
+  verifiedLegalDetails: {
+    companyName: 'Yoga Products Top Limited',
+    jurisdiction: 'United Kingdom / International Operation',
+    governingLaw: 'Applicable Local & International Privacy Laws (GDPR / CCPA compliant)',
+    lastPolicyUpdate: 'August 1, 2026',
+  },
+} as const;

@@ -1,0 +1,85 @@
+import { NavGroup } from '../types/company';
+
+export const COMPANY_NAVIGATION_GROUPS: Record<string, NavGroup> = {
+  company: {
+    key: 'company',
+    label: 'Company',
+    description: 'Learn about Mini Post App, our philosophy, mission, values, and story.',
+    items: [
+      { key: 'about', label: 'About', href: '/company/about', description: 'Overview of Mini Post App, workflow & operating entity' },
+      { key: 'our-story', label: 'Our Story', href: '/company/our-story', description: 'Our restrained product origin and journey' },
+      { key: 'mission', label: 'Mission', href: '/company/mission', description: 'Our core purpose to eliminate social publishing friction' },
+      { key: 'vision', label: 'Vision', href: '/company/vision', description: 'Our long-term commitment to authentic digital presence' },
+      { key: 'values', label: 'Values', href: '/company/values', description: 'Our principles of clarity, control, and responsible AI' },
+      { key: 'careers', label: 'Careers', href: '/company/careers', description: 'Culture pillars & verified active vacancy status' },
+      { key: 'contact', label: 'Contact', href: '/company/contact', description: 'Get in touch with support, privacy, or business inquiries' },
+    ],
+  },
+  product: {
+    key: 'product',
+    label: 'Product',
+    description: 'Explore live capabilities, AI content engines, templates, and pricing.',
+    items: [
+      { key: 'features', label: 'Features', href: '/company/product/features', description: 'Live platform features and Studio tools' },
+      { key: 'capabilities', label: 'Capabilities', href: '/company/product/capabilities', description: 'Multi-platform publishing capabilities & support matrix' },
+      { key: 'ai-engine', label: 'AI Engine', href: '/company/product/ai-engine', description: 'Google Gemini AI Flash integration details' },
+      { key: 'templates', label: 'Templates', href: '/company/product/templates', description: 'Template system and prompt customization' },
+      { key: 'pricing', label: 'Pricing', href: '/company/product/pricing', description: 'Flexible subscription plans and feature access' },
+      { key: 'enterprise', label: 'Enterprise', href: '/company/product/enterprise', description: 'Solutions for multi-brand agencies and teams' },
+    ],
+  },
+  resources: {
+    key: 'resources',
+    label: 'Resources',
+    description: 'Documentation, help center, FAQs, tutorials, changelog, and roadmap.',
+    items: [
+      { key: 'help', label: 'Help Center', href: '/company/resources/help', description: 'Support hub, categories, and direct contact options' },
+      { key: 'documentation', label: 'Documentation', href: '/company/resources/documentation', description: 'Guide to Creator Studio 7-step pipeline & AI workflows' },
+      { key: 'faq', label: 'FAQ', href: '/company/resources/faq', description: 'Searchable repository of common platform questions' },
+      { key: 'tutorials', label: 'Tutorials', href: '/company/resources/tutorials', description: 'Step-by-step onboarding walkthroughs' },
+      { key: 'blog', label: 'Blog', href: '/company/resources/blog', description: 'Product updates and creator strategy articles' },
+      { key: 'changelog', label: 'Changelog', href: '/company/resources/changelog', description: 'Recent feature releases and version history' },
+      { key: 'roadmap', label: 'Roadmap', href: '/company/resources/roadmap', description: 'Strategic focus areas and platform themes' },
+    ],
+  },
+  trust: {
+    key: 'trust',
+    label: 'Trust',
+    description: 'Security, privacy, legal contracts, engineering standards, and compliance.',
+    items: [
+      { key: 'trust-safety', label: 'Trust & Safety', href: '/company/trust/trust-safety', description: 'Engineering standards, safety, and responsible AI' },
+      { key: 'security', label: 'Security', href: '/company/trust/security', description: 'AES-256 token encryption and infrastructure controls' },
+      { key: 'privacy', label: 'Privacy', href: '/company/trust/privacy', description: 'Canonical Privacy Policy for Yoga Products Top Limited' },
+      { key: 'terms', label: 'Terms', href: '/company/trust/terms', description: 'Canonical Terms of Service agreement' },
+      { key: 'cookies', label: 'Cookies', href: '/company/trust/cookies', description: 'Cookie usage and tracking disclosure policy' },
+      { key: 'gdpr', label: 'GDPR', href: '/company/trust/gdpr', description: 'EU General Data Protection Regulation rights & DSAR' },
+      { key: 'data-processing-agreement', label: 'Data Processing Agreement', href: '/company/trust/data-processing-agreement', description: 'Standard Data Processing Addendum (DPA)' },
+      { key: 'data-deletion', label: 'Data Deletion', href: '/data-deletion', description: 'Interactive account deletion & token revocation', isPreserved: true },
+      { key: 'subprocessors', label: 'Subprocessors', href: '/company/trust/subprocessors', description: 'Verified third-party vendor subprocessor directory' },
+      { key: 'status', label: 'Status', href: '/company/trust/status', description: 'Transparent operational status reporting' },
+    ],
+  },
+  media: {
+    key: 'media',
+    label: 'Media',
+    description: 'Press inquiries, brand kit, logos, screenshots, and downloadable assets.',
+    items: [
+      { key: 'press', label: 'Press', href: '/company/media/press', description: 'Press contacts, product summaries, and media inquiries' },
+      { key: 'brand-kit', label: 'Brand Kit', href: '/company/media/brand-kit', description: 'Brand standards, color palettes, typography, and clear space' },
+      { key: 'logos', label: 'Logos', href: '/company/media/logos', description: 'Approved emblem and wordmark asset previews' },
+      { key: 'screenshots', label: 'Screenshots', href: '/company/media/screenshots', description: 'Official Creator Studio interface preview cards' },
+      { key: 'media-kit', label: 'Media Kit', href: '/company/media/media-kit', description: 'Media package download index and request path' },
+    ],
+  },
+  business: {
+    key: 'business',
+    label: 'Business',
+    description: 'Partnerships, affiliate inquiries, case studies, and customer stories.',
+    items: [
+      { key: 'partners', label: 'Partners', href: '/company/business/partners', description: 'Individual partnership evaluation & contact path' },
+      { key: 'affiliate', label: 'Affiliate', href: '/company/business/affiliate', description: 'Status of future partner referral programs' },
+      { key: 'case-studies', label: 'Case Studies', href: '/company/business/case-studies', description: 'In-preparation creator & business case studies' },
+      { key: 'customer-stories', label: 'Customer Stories', href: '/company/business/customer-stories', description: 'Upcoming creator experience spotlights' },
+    ],
+  },
+};

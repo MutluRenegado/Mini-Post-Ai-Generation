@@ -1,0 +1,119 @@
+# Firebase App Hosting Configuration
+# https://firebase.google.com/docs/app-hosting/configure
+
+runConfig:
+  minInstances: 0
+
+env:
+  # =====================================================
+  # Image Providers
+  # =====================================================
+
+  - variable: PEXELS_API_KEY
+    secret: PEXELS_API_KEY
+
+  - variable: UNSPLASH_ACCESS_KEY
+    secret: UNSPLASH_ACCESS_KEY
+
+  - variable: UNSPLASH_SECRET_KEY
+    secret: UNSPLASH_SECRET_KEY
+
+  - variable: PIXABAY_API_KEY
+    secret: PIXABAY_API_KEY
+
+  # =====================================================
+  # Google AI / Gemini
+  # =====================================================
+
+  - variable: GOOGLE_GENERATIVE_AI_API_KEY
+    secret: GOOGLE_GENERATIVE_AI_API_KEY
+
+  - variable: GEMINI_API_KEY
+    secret: GEMINI_API_KEY
+
+  - variable: GEMINI_SECRET_KEY
+    secret: GEMINI_SECRET_KEY
+
+  - variable: GOOGLE_API_KEY
+    secret: GOOGLE_API_KEY
+
+  # =====================================================
+  # Firebase Server Credentials
+  # =====================================================
+
+  - variable: FIREBASE_PRIVATE_KEY
+    secret: FIREBASE_PRIVATE_KEY
+
+  - variable: FIREBASE_PRIVATE_KEY_ID
+    secret: FIREBASE_PRIVATE_KEY_ID
+
+  # =====================================================
+  # Social Providers
+  # =====================================================
+
+  - variable: BLUESKY_APP_PASSWORD
+    secret: BLUESKY_APP_PASSWORD
+
+  - variable: TELEGRAM_API_KEY
+    secret: TELEGRAM_API_KEY
+
+  # =====================================================
+  # Post Proxy
+  # =====================================================
+
+  - variable: POST_PROXY_DEFAULT_API_KEY
+    secret: POST_PROXY_DEFAULT_API_KEY
+
+  - variable: POST_PROXY_MASTER_API_KEY
+    secret: POST_PROXY_MASTER_API_KEY
+
+  - variable: POST_PROXY_MEGA_API_KEY
+    secret: POST_PROXY_MEGA_API_KEY
+
+  - variable: POST_PROXY_WEBHOOK
+    secret: POST_PROXY_WEBHOOK
+
+  # =====================================================
+  # Stripe
+  # =====================================================
+
+  - variable: STRIPE_SECRET_KEY
+    secret: STRIPE_SECRET_KEY
+
+  - variable: STRIPE_WEBHOOK_SECRET_KEY
+    secret: STRIPE_WEBHOOK_SECRET_KEY
+
+  # =====================================================
+  # Firebase Public Client Configuration
+  # =====================================================
+
+  - variable: NEXT_PUBLIC_FIREBASE_API_KEY
+    value: "AIzaSyBJOcswJYCUufYaqLT8CNVivjyb6nVdZr4"
+
+  - variable: NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN
+    value: "echosofwandering.firebaseapp.com"
+
+  - variable: NEXT_PUBLIC_FIREBASE_DATABASE_URL
+    value: "https://echosofwandering-default-rtdb.europe-west1.firebasedatabase.app"
+
+  - variable: NEXT_PUBLIC_FIREBASE_PROJECT_ID
+    value: "echosofwandering"
+
+  - variable: NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET
+    value: "echosofwandering.firebasestorage.app"
+
+  - variable: NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID
+    value: "249761132287"
+
+  - variable: NEXT_PUBLIC_FIREBASE_APP_ID
+    value: "1:249761132287:web:71b4ee7a49b479ca1f66ca"
+
+  - variable: NEXT_PUBLIC_FIREBASE_MEASUREMENT_ID
+    value: "G-823VVGS617"
+
+  # =====================================================
+  # Public Provider Configuration
+  # =====================================================
+
+  - variable: UNSPLASH_APPLICATION_ID
+    value: "1015617"

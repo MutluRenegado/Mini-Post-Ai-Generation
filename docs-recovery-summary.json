@@ -1,0 +1,3284 @@
+{
+  "canonicalCount": 297,
+  "workingCountBefore": 16,
+  "missingCount": 282,
+  "recoveredCount": 0,
+  "skippedConflictsCount": 1,
+  "failedEpermCount": 296,
+  "workingCountAfter": 16,
+  "auditReport": [
+    {
+      "path": "01-Project-Guides\\Caching.md",
+      "section": "01-Project-Guides",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "01-Project-Guides\\Error-Handling.md",
+      "section": "01-Project-Guides",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "01-Project-Guides\\Security.md",
+      "section": "01-Project-Guides",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "01-Project-Guides\\Storage.md",
+      "section": "01-Project-Guides",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "01-Project-Guides\\Testing.md",
+      "section": "01-Project-Guides",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "01-Project-Guides\\Troubleshooting.md",
+      "section": "01-Project-Guides",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\01_image_system_inventory.md",
+      "section": "02-AI-Systems",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\02_image_architecture.md",
+      "section": "02-AI-Systems",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\03_image_pipeline.md",
+      "section": "02-AI-Systems",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\04_prompt_generation.md",
+      "section": "02-AI-Systems",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\05_visual_brief.md",
+      "section": "02-AI-Systems",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\06_visual_concept.md",
+      "section": "02-AI-Systems",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\07_provider_router.md",
+      "section": "02-AI-Systems",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\08_image_validation.md",
+      "section": "02-AI-Systems",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\09_feedback_learning.md",
+      "section": "02-AI-Systems",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\10_reference_photos.md",
+      "section": "02-AI-Systems",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\11_storage.md",
+      "section": "02-AI-Systems",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\12_api_routes.md",
+      "section": "02-AI-Systems",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\13_ui_components.md",
+      "section": "02-AI-Systems",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\14_dependencies.md",
+      "section": "02-AI-Systems",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\15_import_export_map.md",
+      "section": "02-AI-Systems",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\16_runtime_flow.md",
+      "section": "02-AI-Systems",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\17_tests.md",
+      "section": "02-AI-Systems",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\18_known_issues.md",
+      "section": "02-AI-Systems",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\19_manual_review.md",
+      "section": "02-AI-Systems",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\20_final_report.md",
+      "section": "02-AI-Systems",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\40_image_library_module.md",
+      "section": "02-AI-Systems",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\41_image_library_architecture.md",
+      "section": "02-AI-Systems",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\42_image_library_data_model.md",
+      "section": "02-AI-Systems",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\43_image_library_upload.md",
+      "section": "02-AI-Systems",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\44_image_library_import.md",
+      "section": "02-AI-Systems",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\45_image_library_metadata.md",
+      "section": "02-AI-Systems",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\46_image_library_review.md",
+      "section": "02-AI-Systems",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\47_image_library_rights.md",
+      "section": "02-AI-Systems",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\48_image_library_search.md",
+      "section": "02-AI-Systems",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\49_image_library_security.md",
+      "section": "02-AI-Systems",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\50_image_library_testing.md",
+      "section": "02-AI-Systems",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\51_image_library_manual_review.md",
+      "section": "02-AI-Systems",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\52_image_library_final_report.md",
+      "section": "02-AI-Systems",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\53_visual_intelligence_engine.md",
+      "section": "02-AI-Systems",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\54_folder_synchronizer.md",
+      "section": "02-AI-Systems",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\55_metadata_retrieval.md",
+      "section": "02-AI-Systems",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\56_transparent_ranking.md",
+      "section": "02-AI-Systems",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\57_diversity_control.md",
+      "section": "02-AI-Systems",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\58_reference_resolver.md",
+      "section": "02-AI-Systems",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\59_phase2_canonical_integration.md",
+      "section": "02-AI-Systems",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\60_phase2_testing.md",
+      "section": "02-AI-Systems",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\61_phase2_manual_review.md",
+      "section": "02-AI-Systems",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\62_phase2_final_report.md",
+      "section": "02-AI-Systems",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\README.md",
+      "section": "02-AI-Systems",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "02-AI-Systems\\Image-Generator\\Image-Intelligence\\existing_image_pipeline_map.md",
+      "section": "02-AI-Systems",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "02-AI-Systems\\Image-Generator\\Image-Intelligence\\existing_intelligence_inventory.md",
+      "section": "02-AI-Systems",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "02-AI-Systems\\Image-Generator\\Image-Intelligence\\final_discovery_report.md",
+      "section": "02-AI-Systems",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "02-AI-Systems\\Image-Generator\\Image-Intelligence\\final_text_first_audit.md",
+      "section": "02-AI-Systems",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "02-AI-Systems\\Image-Generator\\Image-Intelligence\\image_feedback_audit.md",
+      "section": "02-AI-Systems",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "02-AI-Systems\\Image-Generator\\Image-Intelligence\\image_intelligence_prebuild_audit.md",
+      "section": "02-AI-Systems",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "02-AI-Systems\\Image-Generator\\Image-Intelligence\\manual_review.md",
+      "section": "02-AI-Systems",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "02-AI-Systems\\Image-Generator\\Image-Intelligence\\module_feasibility_report.md",
+      "section": "02-AI-Systems",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "02-AI-Systems\\Image-Generator\\Image-Intelligence\\README.md",
+      "section": "02-AI-Systems",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "02-AI-Systems\\Image-Generator\\Image-Intelligence\\recommended_architecture.md",
+      "section": "02-AI-Systems",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "02-AI-Systems\\Image-Generator\\Image-Intelligence\\reference_photo_readiness.md",
+      "section": "02-AI-Systems",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "02-AI-Systems\\Image-Generator\\Image-Intelligence\\visual_concept_audit.md",
+      "section": "02-AI-Systems",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "02-AI-Systems\\Image-Generator\\Image-Intelligence\\visual_knowledge_base_audit.md",
+      "section": "02-AI-Systems",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "02-AI-Systems\\Image-Generator\\Pipeline-Repair\\final_report.md",
+      "section": "02-AI-Systems",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "02-AI-Systems\\Image-Generator\\Pipeline-Repair\\final_text_gate.md",
+      "section": "02-AI-Systems",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "02-AI-Systems\\Image-Generator\\Pipeline-Repair\\image_pipeline_prebuild_audit.md",
+      "section": "02-AI-Systems",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "02-AI-Systems\\Image-Generator\\Pipeline-Repair\\image_prompt_model.md",
+      "section": "02-AI-Systems",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "02-AI-Systems\\Image-Generator\\Pipeline-Repair\\image_validation_model.md",
+      "section": "02-AI-Systems",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "02-AI-Systems\\Image-Generator\\Pipeline-Repair\\manual_review.md",
+      "section": "02-AI-Systems",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "02-AI-Systems\\Image-Generator\\Pipeline-Repair\\provider_router.md",
+      "section": "02-AI-Systems",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "02-AI-Systems\\Image-Generator\\Pipeline-Repair\\README.md",
+      "section": "02-AI-Systems",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "02-AI-Systems\\Image-Generator\\Pipeline-Repair\\regression_test_report.md",
+      "section": "02-AI-Systems",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "02-AI-Systems\\Image-Generator\\Pipeline-Repair\\retry_strategy.md",
+      "section": "02-AI-Systems",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "02-AI-Systems\\Image-Generator\\Pipeline-Repair\\text_summary_stage.md",
+      "section": "02-AI-Systems",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "02-AI-Systems\\Image-Generator\\Pipeline-Repair\\visual_brief_model.md",
+      "section": "02-AI-Systems",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "02-AI-Systems\\Image-Generator\\Pipeline-Repair\\visual_concept_resolution.md",
+      "section": "02-AI-Systems",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "03-Product-and-Company\\Company\\company-pages-migration-manifest.md",
+      "section": "03-Product-and-Company",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "03-Product-and-Company\\Company\\company_module_accessibility_report.md",
+      "section": "03-Product-and-Company",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "03-Product-and-Company\\Company\\company_module_architecture.md",
+      "section": "03-Product-and-Company",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "03-Product-and-Company\\Company\\company_module_cleanup_report.md",
+      "section": "03-Product-and-Company",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "03-Product-and-Company\\Company\\company_module_content_inventory.md",
+      "section": "03-Product-and-Company",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "03-Product-and-Company\\Company\\company_module_final_report.md",
+      "section": "03-Product-and-Company",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "03-Product-and-Company\\Company\\company_module_manual_review.md",
+      "section": "03-Product-and-Company",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "03-Product-and-Company\\Company\\company_module_navigation_map.md",
+      "section": "03-Product-and-Company",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "03-Product-and-Company\\Company\\company_module_prebuild_audit.md",
+      "section": "03-Product-and-Company",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "03-Product-and-Company\\Company\\company_module_redirect_map.md",
+      "section": "03-Product-and-Company",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "03-Product-and-Company\\Company\\company_module_route_map.md",
+      "section": "03-Product-and-Company",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "03-Product-and-Company\\Company\\company_module_seo_report.md",
+      "section": "03-Product-and-Company",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "03-Product-and-Company\\Company\\company_module_validation_report.md",
+      "section": "03-Product-and-Company",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "03-Product-and-Company\\Company\\company_pages_manual_review.md",
+      "section": "03-Product-and-Company",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "03-Product-and-Company\\Help-System\\helping_items_manual_review.md",
+      "section": "03-Product-and-Company",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "03-Product-and-Company\\Help-System\\helping_module_accessibility_report.md",
+      "section": "03-Product-and-Company",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "03-Product-and-Company\\Help-System\\helping_module_architecture.md",
+      "section": "03-Product-and-Company",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "03-Product-and-Company\\Help-System\\helping_module_content_inventory.md",
+      "section": "03-Product-and-Company",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "03-Product-and-Company\\Help-System\\helping_module_coverage_report.md",
+      "section": "03-Product-and-Company",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "03-Product-and-Company\\Help-System\\helping_module_final_report.md",
+      "section": "03-Product-and-Company",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "03-Product-and-Company\\Help-System\\helping_module_integration_map.md",
+      "section": "03-Product-and-Company",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "03-Product-and-Company\\Help-System\\helping_module_manual_review.md",
+      "section": "03-Product-and-Company",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "03-Product-and-Company\\Help-System\\helping_module_prebuild_audit.md",
+      "section": "03-Product-and-Company",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "03-Product-and-Company\\Help-System\\helping_module_registry.md",
+      "section": "03-Product-and-Company",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "03-Product-and-Company\\Help-System\\helping_module_validation_report.md",
+      "section": "03-Product-and-Company",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "03-Product-and-Company\\Help-System\\README.md",
+      "section": "03-Product-and-Company",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "03-Product-and-Company\\Studio-Simplification\\studio_wizard_simplification_report.md",
+      "section": "03-Product-and-Company",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "04-Architecture-and-Engineering\\Import-Export-System\\barrel_export_inventory.md",
+      "section": "04-Architecture-and-Engineering",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "04-Architecture-and-Engineering\\Import-Export-System\\canonical_directory_map.md",
+      "section": "04-Architecture-and-Engineering",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "04-Architecture-and-Engineering\\Import-Export-System\\case_sensitivity_report.md",
+      "section": "04-Architecture-and-Engineering",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "04-Architecture-and-Engineering\\Import-Export-System\\circular_dependency_report.md",
+      "section": "04-Architecture-and-Engineering",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "04-Architecture-and-Engineering\\Import-Export-System\\deep_relative_import_report.md",
+      "section": "04-Architecture-and-Engineering",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "04-Architecture-and-Engineering\\Import-Export-System\\deprecated_import_report.md",
+      "section": "04-Architecture-and-Engineering",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "04-Architecture-and-Engineering\\Import-Export-System\\duplicate_export_report.md",
+      "section": "04-Architecture-and-Engineering",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "04-Architecture-and-Engineering\\Import-Export-System\\dynamic_import_report.md",
+      "section": "04-Architecture-and-Engineering",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "04-Architecture-and-Engineering\\Import-Export-System\\final_report.md",
+      "section": "04-Architecture-and-Engineering",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "04-Architecture-and-Engineering\\Import-Export-System\\import_export_migration_report.md",
+      "section": "04-Architecture-and-Engineering",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "04-Architecture-and-Engineering\\Import-Export-System\\import_export_prebuild_audit.md",
+      "section": "04-Architecture-and-Engineering",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "04-Architecture-and-Engineering\\Import-Export-System\\import_export_validation_report.md",
+      "section": "04-Architecture-and-Engineering",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "04-Architecture-and-Engineering\\Import-Export-System\\manual_review.md",
+      "section": "04-Architecture-and-Engineering",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "04-Architecture-and-Engineering\\Import-Export-System\\module_public_api_map.md",
+      "section": "04-Architecture-and-Engineering",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "04-Architecture-and-Engineering\\Import-Export-System\\path_alias_map.md",
+      "section": "04-Architecture-and-Engineering",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "04-Architecture-and-Engineering\\Import-Export-System\\README.md",
+      "section": "04-Architecture-and-Engineering",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "04-Architecture-and-Engineering\\Import-Export-System\\stale_import_report.md",
+      "section": "04-Architecture-and-Engineering",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "04-Architecture-and-Engineering\\Integrations\\README.md",
+      "section": "04-Architecture-and-Engineering",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "05-Platform\\architecture\\01_overview.md",
+      "section": "05-Platform",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "05-Platform\\intelligence\\01_phase_2b_overview.md",
+      "section": "05-Platform",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "05-Platform\\intelligence\\02_metadata_retrieval.md",
+      "section": "05-Platform",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "05-Platform\\intelligence\\03_query_model.md",
+      "section": "05-Platform",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "05-Platform\\intelligence\\04_candidate_filtering.md",
+      "section": "05-Platform",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "05-Platform\\intelligence\\05_transparent_ranking.md",
+      "section": "05-Platform",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "05-Platform\\intelligence\\06_ranking_weights.md",
+      "section": "05-Platform",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "05-Platform\\intelligence\\07_diversity_control.md",
+      "section": "05-Platform",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "05-Platform\\intelligence\\08_visual_reference_resolver.md",
+      "section": "05-Platform",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "05-Platform\\intelligence\\09_reference_enrichment.md",
+      "section": "05-Platform",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "05-Platform\\intelligence\\10_retrieval_audit.md",
+      "section": "05-Platform",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "05-Platform\\intelligence\\11_calibration_dataset.md",
+      "section": "05-Platform",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "05-Platform\\intelligence\\12_retrieval_inspector.md",
+      "section": "05-Platform",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "05-Platform\\intelligence\\13_phase_2b_testing.md",
+      "section": "05-Platform",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "05-Platform\\intelligence\\14_phase_2b_manual_review.md",
+      "section": "05-Platform",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "05-Platform\\intelligence\\15_phase_2b_final_report.md",
+      "section": "05-Platform",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "05-Platform\\library\\01_ingestion_and_sync.md",
+      "section": "05-Platform",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "05-Platform\\library\\02_rights_and_review.md",
+      "section": "05-Platform",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "05-Platform\\manual-review\\01_manual_review.md",
+      "section": "05-Platform",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "05-Platform\\providers\\pexels\\01_pexels_integration_overview.md",
+      "section": "05-Platform",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "05-Platform\\providers\\pexels\\02_pexels_provider_architecture.md",
+      "section": "05-Platform",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "05-Platform\\providers\\pexels\\03_pexels_secret_configuration.md",
+      "section": "05-Platform",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "05-Platform\\providers\\pexels\\04_pexels_api_routes.md",
+      "section": "05-Platform",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "05-Platform\\providers\\pexels\\05_pexels_admin_interface.md",
+      "section": "05-Platform",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "05-Platform\\providers\\pexels\\06_pexels_selective_import.md",
+      "section": "05-Platform",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "05-Platform\\providers\\pexels\\07_pexels_metadata_and_attribution.md",
+      "section": "05-Platform",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "05-Platform\\providers\\pexels\\08_pexels_duplicate_control.md",
+      "section": "05-Platform",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "05-Platform\\providers\\pexels\\09_pexels_rate_limits.md",
+      "section": "05-Platform",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "05-Platform\\providers\\pexels\\10_pexels_security.md",
+      "section": "05-Platform",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "05-Platform\\providers\\pexels\\11_pexels_testing.md",
+      "section": "05-Platform",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "05-Platform\\providers\\pexels\\12_pexels_manual_review.md",
+      "section": "05-Platform",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "05-Platform\\providers\\pexels\\13_pexels_final_report.md",
+      "section": "05-Platform",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "05-Platform\\testing\\01_test_matrix.md",
+      "section": "05-Platform",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\Adding-New-Provider.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\Attribution-Rules.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\Canonical-Image-Model.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\create-provider-docs.bat",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\Licensing-Compliance.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\Pexels\\API.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\Pexels\\Architecture.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\Pexels\\Attribution.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\Pexels\\Authentication.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\Pexels\\Caching.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\Pexels\\Changelog.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\Pexels\\Configuration.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\Pexels\\Endpoints.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\Pexels\\Error-Handling.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\Pexels\\Future-Roadmap.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\Pexels\\Image-Model.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\Pexels\\Licensing.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\Pexels\\Mapping.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\Pexels\\Rate-Limits.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\Pexels\\README.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\Pexels\\Search.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\Pexels\\Secret-Manager.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\Pexels\\Security.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\Pexels\\Storage.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\Pexels\\Testing.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\Pexels\\Troubleshooting.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\Pixabay\\API.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\Pixabay\\Architecture.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\Pixabay\\Attribution.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\Pixabay\\Authentication.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\Pixabay\\Caching.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\Pixabay\\Changelog.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\Pixabay\\Configuration.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\Pixabay\\Endpoints.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\Pixabay\\Error-Handling.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\Pixabay\\Future-Roadmap.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\Pixabay\\Image-Model.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\Pixabay\\Licensing.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\Pixabay\\Mapping.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\Pixabay\\Rate-Limits.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\Pixabay\\README.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\Pixabay\\Search.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\Pixabay\\Secret-Manager.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\Pixabay\\Security.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\Pixabay\\Storage.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\Pixabay\\Testing.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\Pixabay\\Troubleshooting.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\Provider-Architecture-Standard.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\Provider-Checklist.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\Provider-Development-Guide.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\Provider-Registry.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\Provider-Router.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\README.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\Secret-Manager-Guide.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\Security-Requirements.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\Shared-Guides\\Rate-Limits.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\Subprocessor-Audit.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\Testing-Standards.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\unsplash\\API.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\unsplash\\Architecture.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\unsplash\\Attribution.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\unsplash\\Authentication.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\unsplash\\Caching.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\unsplash\\Changelog.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\unsplash\\Configuration.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\unsplash\\Download-Tracking.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\unsplash\\Endpoints.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\unsplash\\Error-Handling.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\unsplash\\Future-Roadmap.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\unsplash\\Image-Model.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\unsplash\\Licensing.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\unsplash\\Mapping.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\unsplash\\Rate-Limits.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\unsplash\\README.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\unsplash\\Search.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\unsplash\\Secret-Manager.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\unsplash\\Security.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\unsplash\\Storage.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\unsplash\\Testing.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "06-Providers\\unsplash\\Troubleshooting.md",
+      "section": "06-Providers",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "07-Legal-and-Compliance\\Attribution.md",
+      "section": "07-Legal-and-Compliance",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "07-Legal-and-Compliance\\Legal-Modules\\legal_module_accessibility_report.md",
+      "section": "07-Legal-and-Compliance",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "07-Legal-and-Compliance\\Legal-Modules\\legal_module_architecture.md",
+      "section": "07-Legal-and-Compliance",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "07-Legal-and-Compliance\\Legal-Modules\\legal_module_cleanup_report.md",
+      "section": "07-Legal-and-Compliance",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "07-Legal-and-Compliance\\Legal-Modules\\legal_module_content_inventory.md",
+      "section": "07-Legal-and-Compliance",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "07-Legal-and-Compliance\\Legal-Modules\\legal_module_cookie_audit.md",
+      "section": "07-Legal-and-Compliance",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "07-Legal-and-Compliance\\Legal-Modules\\legal_module_data_rights_audit.md",
+      "section": "07-Legal-and-Compliance",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "07-Legal-and-Compliance\\Legal-Modules\\legal_module_documentation_migration.md",
+      "section": "07-Legal-and-Compliance",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "07-Legal-and-Compliance\\Legal-Modules\\legal_module_documentation_report.md",
+      "section": "07-Legal-and-Compliance",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "07-Legal-and-Compliance\\Legal-Modules\\legal_module_final_report.md",
+      "section": "07-Legal-and-Compliance",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "07-Legal-and-Compliance\\Legal-Modules\\legal_module_manual_review.md",
+      "section": "07-Legal-and-Compliance",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "07-Legal-and-Compliance\\Legal-Modules\\legal_module_migration_report.md",
+      "section": "07-Legal-and-Compliance",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "07-Legal-and-Compliance\\Legal-Modules\\legal_module_navigation_map.md",
+      "section": "07-Legal-and-Compliance",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "07-Legal-and-Compliance\\Legal-Modules\\legal_module_prebuild_audit.md",
+      "section": "07-Legal-and-Compliance",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "07-Legal-and-Compliance\\Legal-Modules\\legal_module_privacy_audit.md",
+      "section": "07-Legal-and-Compliance",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "07-Legal-and-Compliance\\Legal-Modules\\legal_module_redirect_map.md",
+      "section": "07-Legal-and-Compliance",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "07-Legal-and-Compliance\\Legal-Modules\\legal_module_route_map.md",
+      "section": "07-Legal-and-Compliance",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "07-Legal-and-Compliance\\Legal-Modules\\legal_module_seo_report.md",
+      "section": "07-Legal-and-Compliance",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "07-Legal-and-Compliance\\Legal-Modules\\legal_module_validation_report.md",
+      "section": "07-Legal-and-Compliance",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "07-Legal-and-Compliance\\Legal-Modules\\legal_module_versioning.md",
+      "section": "07-Legal-and-Compliance",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "07-Legal-and-Compliance\\Legal-Modules\\legal_pages_manual_review.md",
+      "section": "07-Legal-and-Compliance",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "07-Legal-and-Compliance\\Legal-Modules\\README.md",
+      "section": "07-Legal-and-Compliance",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "07-Legal-and-Compliance\\Licensing.md",
+      "section": "07-Legal-and-Compliance",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "08-Standards\\Standards-Modules\\README.md",
+      "section": "08-Standards",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "08-Standards\\Standards-Modules\\standards_module_accessibility_report.md",
+      "section": "08-Standards",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "08-Standards\\Standards-Modules\\standards_module_architecture.md",
+      "section": "08-Standards",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "08-Standards\\Standards-Modules\\standards_module_cleanup_report.md",
+      "section": "08-Standards",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "08-Standards\\Standards-Modules\\standards_module_documentation_migration.md",
+      "section": "08-Standards",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "08-Standards\\Standards-Modules\\standards_module_documentation_report.md",
+      "section": "08-Standards",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "08-Standards\\Standards-Modules\\standards_module_final_report.md",
+      "section": "08-Standards",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "08-Standards\\Standards-Modules\\standards_module_integration_map.md",
+      "section": "08-Standards",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "08-Standards\\Standards-Modules\\standards_module_manual_review.md",
+      "section": "08-Standards",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "08-Standards\\Standards-Modules\\standards_module_migration_report.md",
+      "section": "08-Standards",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "08-Standards\\Standards-Modules\\standards_module_prebuild_audit.md",
+      "section": "08-Standards",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "08-Standards\\Standards-Modules\\standards_module_public_standards_map.md",
+      "section": "08-Standards",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "08-Standards\\Standards-Modules\\standards_module_registry.md",
+      "section": "08-Standards",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "08-Standards\\Standards-Modules\\standards_module_seo_report.md",
+      "section": "08-Standards",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "08-Standards\\Standards-Modules\\standards_module_standards_review.md",
+      "section": "08-Standards",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "08-Standards\\Standards-Modules\\standards_module_test_report.md",
+      "section": "08-Standards",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "08-Standards\\Standards-Modules\\standards_module_validation_model.md",
+      "section": "08-Standards",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "08-Standards\\Standards-Modules\\standards_module_validation_report.md",
+      "section": "08-Standards",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "08-Standards\\Standards-Modules\\standards_module_versioning.md",
+      "section": "08-Standards",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "08-Standards\\Standards-System\\architecture\\standards_architecture.md",
+      "section": "08-Standards",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "08-Standards\\Standards-System\\discovery\\standards_prebuild_audit.md",
+      "section": "08-Standards",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "08-Standards\\Standards-System\\final_report.md",
+      "section": "08-Standards",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "08-Standards\\Standards-System\\framework-mapping\\adopted_standards_registry.md",
+      "section": "08-Standards",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "08-Standards\\Standards-System\\framework-mapping\\alignment_gap_report.md",
+      "section": "08-Standards",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "08-Standards\\Standards-System\\framework-mapping\\master_alignment_matrix.md",
+      "section": "08-Standards",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "08-Standards\\Standards-System\\framework-mapping\\standards_conflict_register.md",
+      "section": "08-Standards",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "08-Standards\\Standards-System\\governance\\external_standards_update_process.md",
+      "section": "08-Standards",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "08-Standards\\Standards-System\\governance\\standards_exception_process.md",
+      "section": "08-Standards",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "08-Standards\\Standards-System\\integration\\studioos_integration.md",
+      "section": "08-Standards",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "08-Standards\\Standards-System\\manual-review\\alignment_manual_review.md",
+      "section": "08-Standards",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "08-Standards\\Standards-System\\manual-review\\individual_standards_review.md",
+      "section": "08-Standards",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "08-Standards\\Standards-System\\manual-review\\standards_system_manual_review.md",
+      "section": "08-Standards",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "08-Standards\\Standards-System\\README.md",
+      "section": "08-Standards",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "08-Standards\\Standards-System\\registry\\standards_registry.md",
+      "section": "08-Standards",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "08-Standards\\Standards-System\\testing\\standards_test_report.md",
+      "section": "08-Standards",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "08-Standards\\Standards-System\\validation\\validation_model.md",
+      "section": "08-Standards",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "10-Project-History\\CHANGELOG.md",
+      "section": "10-Project-History",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "10-Project-History\\Future-Roadmap.md",
+      "section": "10-Project-History",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "DOCUMENT-MANIFEST.txt",
+      "section": "DOCUMENT-MANIFEST.txt",
+      "status": "MISSING",
+      "evidence": "Present in canonical Docs, missing from working project docs directory",
+      "recoverable": "YES"
+    },
+    {
+      "path": "README.md",
+      "section": "README.md",
+      "status": "OVERWRITTEN",
+      "evidence": "Content differs (Working: 114 bytes, Canonical: 1304 bytes)",
+      "recoverable": "CONFLICT"
+    }
+  ],
+  "recoveredFilesList": [],
+  "skippedConflictsList": [
+    {
+      "relFile": "README.md",
+      "workingSize": 114,
+      "canonicalSize": 1304
+    }
+  ],
+  "failedEpermFilesList": [
+    {
+      "path": "01-Project-Guides\\Caching.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\01-Project-Guides'"
+    },
+    {
+      "path": "01-Project-Guides\\Error-Handling.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\01-Project-Guides'"
+    },
+    {
+      "path": "01-Project-Guides\\Security.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\01-Project-Guides'"
+    },
+    {
+      "path": "01-Project-Guides\\Storage.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\01-Project-Guides'"
+    },
+    {
+      "path": "01-Project-Guides\\Testing.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\01-Project-Guides'"
+    },
+    {
+      "path": "01-Project-Guides\\Troubleshooting.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\01-Project-Guides'"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\01_image_system_inventory.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\02-AI-Systems\\Image Creation Modules'"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\02_image_architecture.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\02-AI-Systems\\Image Creation Modules'"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\03_image_pipeline.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\02-AI-Systems\\Image Creation Modules'"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\04_prompt_generation.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\02-AI-Systems\\Image Creation Modules'"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\05_visual_brief.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\02-AI-Systems\\Image Creation Modules'"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\06_visual_concept.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\02-AI-Systems\\Image Creation Modules'"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\07_provider_router.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\02-AI-Systems\\Image Creation Modules'"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\08_image_validation.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\02-AI-Systems\\Image Creation Modules'"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\09_feedback_learning.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\02-AI-Systems\\Image Creation Modules'"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\10_reference_photos.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\02-AI-Systems\\Image Creation Modules'"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\11_storage.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\02-AI-Systems\\Image Creation Modules'"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\12_api_routes.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\02-AI-Systems\\Image Creation Modules'"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\13_ui_components.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\02-AI-Systems\\Image Creation Modules'"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\14_dependencies.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\02-AI-Systems\\Image Creation Modules'"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\15_import_export_map.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\02-AI-Systems\\Image Creation Modules'"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\16_runtime_flow.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\02-AI-Systems\\Image Creation Modules'"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\17_tests.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\02-AI-Systems\\Image Creation Modules'"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\18_known_issues.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\02-AI-Systems\\Image Creation Modules'"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\19_manual_review.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\02-AI-Systems\\Image Creation Modules'"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\20_final_report.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\02-AI-Systems\\Image Creation Modules'"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\40_image_library_module.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\02-AI-Systems\\Image Creation Modules'"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\41_image_library_architecture.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\02-AI-Systems\\Image Creation Modules'"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\42_image_library_data_model.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\02-AI-Systems\\Image Creation Modules'"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\43_image_library_upload.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\02-AI-Systems\\Image Creation Modules'"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\44_image_library_import.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\02-AI-Systems\\Image Creation Modules'"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\45_image_library_metadata.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\02-AI-Systems\\Image Creation Modules'"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\46_image_library_review.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\02-AI-Systems\\Image Creation Modules'"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\47_image_library_rights.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\02-AI-Systems\\Image Creation Modules'"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\48_image_library_search.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\02-AI-Systems\\Image Creation Modules'"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\49_image_library_security.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\02-AI-Systems\\Image Creation Modules'"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\50_image_library_testing.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\02-AI-Systems\\Image Creation Modules'"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\51_image_library_manual_review.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\02-AI-Systems\\Image Creation Modules'"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\52_image_library_final_report.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\02-AI-Systems\\Image Creation Modules'"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\53_visual_intelligence_engine.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\02-AI-Systems\\Image Creation Modules'"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\54_folder_synchronizer.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\02-AI-Systems\\Image Creation Modules'"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\55_metadata_retrieval.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\02-AI-Systems\\Image Creation Modules'"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\56_transparent_ranking.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\02-AI-Systems\\Image Creation Modules'"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\57_diversity_control.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\02-AI-Systems\\Image Creation Modules'"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\58_reference_resolver.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\02-AI-Systems\\Image Creation Modules'"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\59_phase2_canonical_integration.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\02-AI-Systems\\Image Creation Modules'"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\60_phase2_testing.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\02-AI-Systems\\Image Creation Modules'"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\61_phase2_manual_review.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\02-AI-Systems\\Image Creation Modules'"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\62_phase2_final_report.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\02-AI-Systems\\Image Creation Modules'"
+    },
+    {
+      "path": "02-AI-Systems\\Image Creation Modules\\README.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\02-AI-Systems\\Image Creation Modules'"
+    },
+    {
+      "path": "02-AI-Systems\\Image-Generator\\Image-Intelligence\\existing_image_pipeline_map.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\02-AI-Systems\\Image-Generator\\Image-Intelligence'"
+    },
+    {
+      "path": "02-AI-Systems\\Image-Generator\\Image-Intelligence\\existing_intelligence_inventory.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\02-AI-Systems\\Image-Generator\\Image-Intelligence'"
+    },
+    {
+      "path": "02-AI-Systems\\Image-Generator\\Image-Intelligence\\final_discovery_report.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\02-AI-Systems\\Image-Generator\\Image-Intelligence'"
+    },
+    {
+      "path": "02-AI-Systems\\Image-Generator\\Image-Intelligence\\final_text_first_audit.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\02-AI-Systems\\Image-Generator\\Image-Intelligence'"
+    },
+    {
+      "path": "02-AI-Systems\\Image-Generator\\Image-Intelligence\\image_feedback_audit.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\02-AI-Systems\\Image-Generator\\Image-Intelligence'"
+    },
+    {
+      "path": "02-AI-Systems\\Image-Generator\\Image-Intelligence\\image_intelligence_prebuild_audit.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\02-AI-Systems\\Image-Generator\\Image-Intelligence'"
+    },
+    {
+      "path": "02-AI-Systems\\Image-Generator\\Image-Intelligence\\manual_review.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\02-AI-Systems\\Image-Generator\\Image-Intelligence'"
+    },
+    {
+      "path": "02-AI-Systems\\Image-Generator\\Image-Intelligence\\module_feasibility_report.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\02-AI-Systems\\Image-Generator\\Image-Intelligence'"
+    },
+    {
+      "path": "02-AI-Systems\\Image-Generator\\Image-Intelligence\\README.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\02-AI-Systems\\Image-Generator\\Image-Intelligence'"
+    },
+    {
+      "path": "02-AI-Systems\\Image-Generator\\Image-Intelligence\\recommended_architecture.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\02-AI-Systems\\Image-Generator\\Image-Intelligence'"
+    },
+    {
+      "path": "02-AI-Systems\\Image-Generator\\Image-Intelligence\\reference_photo_readiness.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\02-AI-Systems\\Image-Generator\\Image-Intelligence'"
+    },
+    {
+      "path": "02-AI-Systems\\Image-Generator\\Image-Intelligence\\visual_concept_audit.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\02-AI-Systems\\Image-Generator\\Image-Intelligence'"
+    },
+    {
+      "path": "02-AI-Systems\\Image-Generator\\Image-Intelligence\\visual_knowledge_base_audit.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\02-AI-Systems\\Image-Generator\\Image-Intelligence'"
+    },
+    {
+      "path": "02-AI-Systems\\Image-Generator\\Pipeline-Repair\\final_report.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\02-AI-Systems\\Image-Generator\\Pipeline-Repair'"
+    },
+    {
+      "path": "02-AI-Systems\\Image-Generator\\Pipeline-Repair\\final_text_gate.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\02-AI-Systems\\Image-Generator\\Pipeline-Repair'"
+    },
+    {
+      "path": "02-AI-Systems\\Image-Generator\\Pipeline-Repair\\image_pipeline_prebuild_audit.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\02-AI-Systems\\Image-Generator\\Pipeline-Repair'"
+    },
+    {
+      "path": "02-AI-Systems\\Image-Generator\\Pipeline-Repair\\image_prompt_model.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\02-AI-Systems\\Image-Generator\\Pipeline-Repair'"
+    },
+    {
+      "path": "02-AI-Systems\\Image-Generator\\Pipeline-Repair\\image_validation_model.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\02-AI-Systems\\Image-Generator\\Pipeline-Repair'"
+    },
+    {
+      "path": "02-AI-Systems\\Image-Generator\\Pipeline-Repair\\manual_review.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\02-AI-Systems\\Image-Generator\\Pipeline-Repair'"
+    },
+    {
+      "path": "02-AI-Systems\\Image-Generator\\Pipeline-Repair\\provider_router.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\02-AI-Systems\\Image-Generator\\Pipeline-Repair'"
+    },
+    {
+      "path": "02-AI-Systems\\Image-Generator\\Pipeline-Repair\\README.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\02-AI-Systems\\Image-Generator\\Pipeline-Repair'"
+    },
+    {
+      "path": "02-AI-Systems\\Image-Generator\\Pipeline-Repair\\regression_test_report.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\02-AI-Systems\\Image-Generator\\Pipeline-Repair'"
+    },
+    {
+      "path": "02-AI-Systems\\Image-Generator\\Pipeline-Repair\\retry_strategy.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\02-AI-Systems\\Image-Generator\\Pipeline-Repair'"
+    },
+    {
+      "path": "02-AI-Systems\\Image-Generator\\Pipeline-Repair\\text_summary_stage.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\02-AI-Systems\\Image-Generator\\Pipeline-Repair'"
+    },
+    {
+      "path": "02-AI-Systems\\Image-Generator\\Pipeline-Repair\\visual_brief_model.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\02-AI-Systems\\Image-Generator\\Pipeline-Repair'"
+    },
+    {
+      "path": "02-AI-Systems\\Image-Generator\\Pipeline-Repair\\visual_concept_resolution.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\02-AI-Systems\\Image-Generator\\Pipeline-Repair'"
+    },
+    {
+      "path": "03-Product-and-Company\\Company\\company-pages-migration-manifest.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\03-Product-and-Company\\Company\\company-pages-migration-manifest.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\03-Product-and-Company\\Company\\company-pages-migration-manifest.md'"
+    },
+    {
+      "path": "03-Product-and-Company\\Company\\company_module_accessibility_report.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\03-Product-and-Company\\Company\\company_module_accessibility_report.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\03-Product-and-Company\\Company\\company_module_accessibility_report.md'"
+    },
+    {
+      "path": "03-Product-and-Company\\Company\\company_module_architecture.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\03-Product-and-Company\\Company\\company_module_architecture.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\03-Product-and-Company\\Company\\company_module_architecture.md'"
+    },
+    {
+      "path": "03-Product-and-Company\\Company\\company_module_cleanup_report.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\03-Product-and-Company\\Company\\company_module_cleanup_report.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\03-Product-and-Company\\Company\\company_module_cleanup_report.md'"
+    },
+    {
+      "path": "03-Product-and-Company\\Company\\company_module_content_inventory.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\03-Product-and-Company\\Company\\company_module_content_inventory.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\03-Product-and-Company\\Company\\company_module_content_inventory.md'"
+    },
+    {
+      "path": "03-Product-and-Company\\Company\\company_module_final_report.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\03-Product-and-Company\\Company\\company_module_final_report.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\03-Product-and-Company\\Company\\company_module_final_report.md'"
+    },
+    {
+      "path": "03-Product-and-Company\\Company\\company_module_manual_review.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\03-Product-and-Company\\Company\\company_module_manual_review.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\03-Product-and-Company\\Company\\company_module_manual_review.md'"
+    },
+    {
+      "path": "03-Product-and-Company\\Company\\company_module_navigation_map.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\03-Product-and-Company\\Company\\company_module_navigation_map.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\03-Product-and-Company\\Company\\company_module_navigation_map.md'"
+    },
+    {
+      "path": "03-Product-and-Company\\Company\\company_module_prebuild_audit.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\03-Product-and-Company\\Company\\company_module_prebuild_audit.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\03-Product-and-Company\\Company\\company_module_prebuild_audit.md'"
+    },
+    {
+      "path": "03-Product-and-Company\\Company\\company_module_redirect_map.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\03-Product-and-Company\\Company\\company_module_redirect_map.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\03-Product-and-Company\\Company\\company_module_redirect_map.md'"
+    },
+    {
+      "path": "03-Product-and-Company\\Company\\company_module_route_map.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\03-Product-and-Company\\Company\\company_module_route_map.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\03-Product-and-Company\\Company\\company_module_route_map.md'"
+    },
+    {
+      "path": "03-Product-and-Company\\Company\\company_module_seo_report.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\03-Product-and-Company\\Company\\company_module_seo_report.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\03-Product-and-Company\\Company\\company_module_seo_report.md'"
+    },
+    {
+      "path": "03-Product-and-Company\\Company\\company_module_validation_report.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\03-Product-and-Company\\Company\\company_module_validation_report.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\03-Product-and-Company\\Company\\company_module_validation_report.md'"
+    },
+    {
+      "path": "03-Product-and-Company\\Company\\company_pages_manual_review.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\03-Product-and-Company\\Company\\company_pages_manual_review.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\03-Product-and-Company\\Company\\company_pages_manual_review.md'"
+    },
+    {
+      "path": "03-Product-and-Company\\Help-System\\helping_items_manual_review.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\03-Product-and-Company\\Help-System\\helping_items_manual_review.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\03-Product-and-Company\\Help-System\\helping_items_manual_review.md'"
+    },
+    {
+      "path": "03-Product-and-Company\\Help-System\\helping_module_accessibility_report.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\03-Product-and-Company\\Help-System\\helping_module_accessibility_report.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\03-Product-and-Company\\Help-System\\helping_module_accessibility_report.md'"
+    },
+    {
+      "path": "03-Product-and-Company\\Help-System\\helping_module_architecture.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\03-Product-and-Company\\Help-System\\helping_module_architecture.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\03-Product-and-Company\\Help-System\\helping_module_architecture.md'"
+    },
+    {
+      "path": "03-Product-and-Company\\Help-System\\helping_module_content_inventory.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\03-Product-and-Company\\Help-System\\helping_module_content_inventory.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\03-Product-and-Company\\Help-System\\helping_module_content_inventory.md'"
+    },
+    {
+      "path": "03-Product-and-Company\\Help-System\\helping_module_coverage_report.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\03-Product-and-Company\\Help-System\\helping_module_coverage_report.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\03-Product-and-Company\\Help-System\\helping_module_coverage_report.md'"
+    },
+    {
+      "path": "03-Product-and-Company\\Help-System\\helping_module_final_report.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\03-Product-and-Company\\Help-System\\helping_module_final_report.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\03-Product-and-Company\\Help-System\\helping_module_final_report.md'"
+    },
+    {
+      "path": "03-Product-and-Company\\Help-System\\helping_module_integration_map.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\03-Product-and-Company\\Help-System\\helping_module_integration_map.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\03-Product-and-Company\\Help-System\\helping_module_integration_map.md'"
+    },
+    {
+      "path": "03-Product-and-Company\\Help-System\\helping_module_manual_review.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\03-Product-and-Company\\Help-System\\helping_module_manual_review.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\03-Product-and-Company\\Help-System\\helping_module_manual_review.md'"
+    },
+    {
+      "path": "03-Product-and-Company\\Help-System\\helping_module_prebuild_audit.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\03-Product-and-Company\\Help-System\\helping_module_prebuild_audit.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\03-Product-and-Company\\Help-System\\helping_module_prebuild_audit.md'"
+    },
+    {
+      "path": "03-Product-and-Company\\Help-System\\helping_module_registry.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\03-Product-and-Company\\Help-System\\helping_module_registry.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\03-Product-and-Company\\Help-System\\helping_module_registry.md'"
+    },
+    {
+      "path": "03-Product-and-Company\\Help-System\\helping_module_validation_report.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\03-Product-and-Company\\Help-System\\helping_module_validation_report.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\03-Product-and-Company\\Help-System\\helping_module_validation_report.md'"
+    },
+    {
+      "path": "03-Product-and-Company\\Help-System\\README.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\03-Product-and-Company\\Help-System\\README.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\03-Product-and-Company\\Help-System\\README.md'"
+    },
+    {
+      "path": "03-Product-and-Company\\Studio-Simplification\\studio_wizard_simplification_report.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\03-Product-and-Company\\Studio-Simplification\\studio_wizard_simplification_report.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\03-Product-and-Company\\Studio-Simplification\\studio_wizard_simplification_report.md'"
+    },
+    {
+      "path": "04-Architecture-and-Engineering\\Import-Export-System\\barrel_export_inventory.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\04-Architecture-and-Engineering\\Import-Export-System'"
+    },
+    {
+      "path": "04-Architecture-and-Engineering\\Import-Export-System\\canonical_directory_map.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\04-Architecture-and-Engineering\\Import-Export-System'"
+    },
+    {
+      "path": "04-Architecture-and-Engineering\\Import-Export-System\\case_sensitivity_report.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\04-Architecture-and-Engineering\\Import-Export-System'"
+    },
+    {
+      "path": "04-Architecture-and-Engineering\\Import-Export-System\\circular_dependency_report.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\04-Architecture-and-Engineering\\Import-Export-System'"
+    },
+    {
+      "path": "04-Architecture-and-Engineering\\Import-Export-System\\deep_relative_import_report.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\04-Architecture-and-Engineering\\Import-Export-System'"
+    },
+    {
+      "path": "04-Architecture-and-Engineering\\Import-Export-System\\deprecated_import_report.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\04-Architecture-and-Engineering\\Import-Export-System'"
+    },
+    {
+      "path": "04-Architecture-and-Engineering\\Import-Export-System\\duplicate_export_report.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\04-Architecture-and-Engineering\\Import-Export-System'"
+    },
+    {
+      "path": "04-Architecture-and-Engineering\\Import-Export-System\\dynamic_import_report.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\04-Architecture-and-Engineering\\Import-Export-System'"
+    },
+    {
+      "path": "04-Architecture-and-Engineering\\Import-Export-System\\final_report.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\04-Architecture-and-Engineering\\Import-Export-System'"
+    },
+    {
+      "path": "04-Architecture-and-Engineering\\Import-Export-System\\import_export_migration_report.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\04-Architecture-and-Engineering\\Import-Export-System'"
+    },
+    {
+      "path": "04-Architecture-and-Engineering\\Import-Export-System\\import_export_prebuild_audit.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\04-Architecture-and-Engineering\\Import-Export-System'"
+    },
+    {
+      "path": "04-Architecture-and-Engineering\\Import-Export-System\\import_export_validation_report.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\04-Architecture-and-Engineering\\Import-Export-System'"
+    },
+    {
+      "path": "04-Architecture-and-Engineering\\Import-Export-System\\manual_review.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\04-Architecture-and-Engineering\\Import-Export-System'"
+    },
+    {
+      "path": "04-Architecture-and-Engineering\\Import-Export-System\\module_public_api_map.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\04-Architecture-and-Engineering\\Import-Export-System'"
+    },
+    {
+      "path": "04-Architecture-and-Engineering\\Import-Export-System\\path_alias_map.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\04-Architecture-and-Engineering\\Import-Export-System'"
+    },
+    {
+      "path": "04-Architecture-and-Engineering\\Import-Export-System\\README.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\04-Architecture-and-Engineering\\Import-Export-System'"
+    },
+    {
+      "path": "04-Architecture-and-Engineering\\Import-Export-System\\stale_import_report.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\04-Architecture-and-Engineering\\Import-Export-System'"
+    },
+    {
+      "path": "04-Architecture-and-Engineering\\Integrations\\README.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\04-Architecture-and-Engineering\\Integrations'"
+    },
+    {
+      "path": "05-Platform\\architecture\\01_overview.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\05-Platform\\architecture'"
+    },
+    {
+      "path": "05-Platform\\intelligence\\01_phase_2b_overview.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\05-Platform\\intelligence'"
+    },
+    {
+      "path": "05-Platform\\intelligence\\02_metadata_retrieval.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\05-Platform\\intelligence'"
+    },
+    {
+      "path": "05-Platform\\intelligence\\03_query_model.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\05-Platform\\intelligence'"
+    },
+    {
+      "path": "05-Platform\\intelligence\\04_candidate_filtering.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\05-Platform\\intelligence'"
+    },
+    {
+      "path": "05-Platform\\intelligence\\05_transparent_ranking.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\05-Platform\\intelligence'"
+    },
+    {
+      "path": "05-Platform\\intelligence\\06_ranking_weights.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\05-Platform\\intelligence'"
+    },
+    {
+      "path": "05-Platform\\intelligence\\07_diversity_control.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\05-Platform\\intelligence'"
+    },
+    {
+      "path": "05-Platform\\intelligence\\08_visual_reference_resolver.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\05-Platform\\intelligence'"
+    },
+    {
+      "path": "05-Platform\\intelligence\\09_reference_enrichment.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\05-Platform\\intelligence'"
+    },
+    {
+      "path": "05-Platform\\intelligence\\10_retrieval_audit.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\05-Platform\\intelligence'"
+    },
+    {
+      "path": "05-Platform\\intelligence\\11_calibration_dataset.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\05-Platform\\intelligence'"
+    },
+    {
+      "path": "05-Platform\\intelligence\\12_retrieval_inspector.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\05-Platform\\intelligence'"
+    },
+    {
+      "path": "05-Platform\\intelligence\\13_phase_2b_testing.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\05-Platform\\intelligence'"
+    },
+    {
+      "path": "05-Platform\\intelligence\\14_phase_2b_manual_review.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\05-Platform\\intelligence'"
+    },
+    {
+      "path": "05-Platform\\intelligence\\15_phase_2b_final_report.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\05-Platform\\intelligence'"
+    },
+    {
+      "path": "05-Platform\\library\\01_ingestion_and_sync.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\05-Platform\\library'"
+    },
+    {
+      "path": "05-Platform\\library\\02_rights_and_review.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\05-Platform\\library'"
+    },
+    {
+      "path": "05-Platform\\manual-review\\01_manual_review.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\05-Platform\\manual-review'"
+    },
+    {
+      "path": "05-Platform\\providers\\pexels\\01_pexels_integration_overview.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\05-Platform\\providers\\pexels'"
+    },
+    {
+      "path": "05-Platform\\providers\\pexels\\02_pexels_provider_architecture.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\05-Platform\\providers\\pexels'"
+    },
+    {
+      "path": "05-Platform\\providers\\pexels\\03_pexels_secret_configuration.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\05-Platform\\providers\\pexels'"
+    },
+    {
+      "path": "05-Platform\\providers\\pexels\\04_pexels_api_routes.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\05-Platform\\providers\\pexels'"
+    },
+    {
+      "path": "05-Platform\\providers\\pexels\\05_pexels_admin_interface.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\05-Platform\\providers\\pexels'"
+    },
+    {
+      "path": "05-Platform\\providers\\pexels\\06_pexels_selective_import.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\05-Platform\\providers\\pexels'"
+    },
+    {
+      "path": "05-Platform\\providers\\pexels\\07_pexels_metadata_and_attribution.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\05-Platform\\providers\\pexels'"
+    },
+    {
+      "path": "05-Platform\\providers\\pexels\\08_pexels_duplicate_control.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\05-Platform\\providers\\pexels'"
+    },
+    {
+      "path": "05-Platform\\providers\\pexels\\09_pexels_rate_limits.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\05-Platform\\providers\\pexels'"
+    },
+    {
+      "path": "05-Platform\\providers\\pexels\\10_pexels_security.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\05-Platform\\providers\\pexels'"
+    },
+    {
+      "path": "05-Platform\\providers\\pexels\\11_pexels_testing.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\05-Platform\\providers\\pexels'"
+    },
+    {
+      "path": "05-Platform\\providers\\pexels\\12_pexels_manual_review.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\05-Platform\\providers\\pexels'"
+    },
+    {
+      "path": "05-Platform\\providers\\pexels\\13_pexels_final_report.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\05-Platform\\providers\\pexels'"
+    },
+    {
+      "path": "05-Platform\\testing\\01_test_matrix.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\05-Platform\\testing'"
+    },
+    {
+      "path": "06-Providers\\Adding-New-Provider.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\Adding-New-Provider.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\Adding-New-Provider.md'"
+    },
+    {
+      "path": "06-Providers\\Attribution-Rules.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\Attribution-Rules.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\Attribution-Rules.md'"
+    },
+    {
+      "path": "06-Providers\\Canonical-Image-Model.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\Canonical-Image-Model.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\Canonical-Image-Model.md'"
+    },
+    {
+      "path": "06-Providers\\create-provider-docs.bat",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\create-provider-docs.bat' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\create-provider-docs.bat'"
+    },
+    {
+      "path": "06-Providers\\Licensing-Compliance.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\Licensing-Compliance.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\Licensing-Compliance.md'"
+    },
+    {
+      "path": "06-Providers\\Pexels\\API.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\Pexels\\API.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\Pexels\\API.md'"
+    },
+    {
+      "path": "06-Providers\\Pexels\\Architecture.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\Pexels\\Architecture.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\Pexels\\Architecture.md'"
+    },
+    {
+      "path": "06-Providers\\Pexels\\Attribution.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\Pexels\\Attribution.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\Pexels\\Attribution.md'"
+    },
+    {
+      "path": "06-Providers\\Pexels\\Authentication.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\Pexels\\Authentication.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\Pexels\\Authentication.md'"
+    },
+    {
+      "path": "06-Providers\\Pexels\\Caching.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\Pexels\\Caching.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\Pexels\\Caching.md'"
+    },
+    {
+      "path": "06-Providers\\Pexels\\Changelog.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\Pexels\\Changelog.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\Pexels\\Changelog.md'"
+    },
+    {
+      "path": "06-Providers\\Pexels\\Configuration.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\Pexels\\Configuration.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\Pexels\\Configuration.md'"
+    },
+    {
+      "path": "06-Providers\\Pexels\\Endpoints.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\Pexels\\Endpoints.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\Pexels\\Endpoints.md'"
+    },
+    {
+      "path": "06-Providers\\Pexels\\Error-Handling.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\Pexels\\Error-Handling.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\Pexels\\Error-Handling.md'"
+    },
+    {
+      "path": "06-Providers\\Pexels\\Future-Roadmap.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\Pexels\\Future-Roadmap.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\Pexels\\Future-Roadmap.md'"
+    },
+    {
+      "path": "06-Providers\\Pexels\\Image-Model.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\Pexels\\Image-Model.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\Pexels\\Image-Model.md'"
+    },
+    {
+      "path": "06-Providers\\Pexels\\Licensing.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\Pexels\\Licensing.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\Pexels\\Licensing.md'"
+    },
+    {
+      "path": "06-Providers\\Pexels\\Mapping.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\Pexels\\Mapping.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\Pexels\\Mapping.md'"
+    },
+    {
+      "path": "06-Providers\\Pexels\\Rate-Limits.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\Pexels\\Rate-Limits.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\Pexels\\Rate-Limits.md'"
+    },
+    {
+      "path": "06-Providers\\Pexels\\README.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\Pexels\\README.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\Pexels\\README.md'"
+    },
+    {
+      "path": "06-Providers\\Pexels\\Search.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\Pexels\\Search.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\Pexels\\Search.md'"
+    },
+    {
+      "path": "06-Providers\\Pexels\\Secret-Manager.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\Pexels\\Secret-Manager.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\Pexels\\Secret-Manager.md'"
+    },
+    {
+      "path": "06-Providers\\Pexels\\Security.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\Pexels\\Security.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\Pexels\\Security.md'"
+    },
+    {
+      "path": "06-Providers\\Pexels\\Storage.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\Pexels\\Storage.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\Pexels\\Storage.md'"
+    },
+    {
+      "path": "06-Providers\\Pexels\\Testing.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\Pexels\\Testing.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\Pexels\\Testing.md'"
+    },
+    {
+      "path": "06-Providers\\Pexels\\Troubleshooting.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\Pexels\\Troubleshooting.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\Pexels\\Troubleshooting.md'"
+    },
+    {
+      "path": "06-Providers\\Pixabay\\API.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\Pixabay\\API.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\Pixabay\\API.md'"
+    },
+    {
+      "path": "06-Providers\\Pixabay\\Architecture.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\Pixabay\\Architecture.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\Pixabay\\Architecture.md'"
+    },
+    {
+      "path": "06-Providers\\Pixabay\\Attribution.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\Pixabay\\Attribution.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\Pixabay\\Attribution.md'"
+    },
+    {
+      "path": "06-Providers\\Pixabay\\Authentication.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\Pixabay\\Authentication.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\Pixabay\\Authentication.md'"
+    },
+    {
+      "path": "06-Providers\\Pixabay\\Caching.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\Pixabay\\Caching.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\Pixabay\\Caching.md'"
+    },
+    {
+      "path": "06-Providers\\Pixabay\\Changelog.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\Pixabay\\Changelog.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\Pixabay\\Changelog.md'"
+    },
+    {
+      "path": "06-Providers\\Pixabay\\Configuration.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\Pixabay\\Configuration.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\Pixabay\\Configuration.md'"
+    },
+    {
+      "path": "06-Providers\\Pixabay\\Endpoints.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\Pixabay\\Endpoints.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\Pixabay\\Endpoints.md'"
+    },
+    {
+      "path": "06-Providers\\Pixabay\\Error-Handling.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\Pixabay\\Error-Handling.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\Pixabay\\Error-Handling.md'"
+    },
+    {
+      "path": "06-Providers\\Pixabay\\Future-Roadmap.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\Pixabay\\Future-Roadmap.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\Pixabay\\Future-Roadmap.md'"
+    },
+    {
+      "path": "06-Providers\\Pixabay\\Image-Model.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\Pixabay\\Image-Model.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\Pixabay\\Image-Model.md'"
+    },
+    {
+      "path": "06-Providers\\Pixabay\\Licensing.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\Pixabay\\Licensing.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\Pixabay\\Licensing.md'"
+    },
+    {
+      "path": "06-Providers\\Pixabay\\Mapping.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\Pixabay\\Mapping.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\Pixabay\\Mapping.md'"
+    },
+    {
+      "path": "06-Providers\\Pixabay\\Rate-Limits.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\Pixabay\\Rate-Limits.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\Pixabay\\Rate-Limits.md'"
+    },
+    {
+      "path": "06-Providers\\Pixabay\\README.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\Pixabay\\README.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\Pixabay\\README.md'"
+    },
+    {
+      "path": "06-Providers\\Pixabay\\Search.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\Pixabay\\Search.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\Pixabay\\Search.md'"
+    },
+    {
+      "path": "06-Providers\\Pixabay\\Secret-Manager.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\Pixabay\\Secret-Manager.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\Pixabay\\Secret-Manager.md'"
+    },
+    {
+      "path": "06-Providers\\Pixabay\\Security.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\Pixabay\\Security.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\Pixabay\\Security.md'"
+    },
+    {
+      "path": "06-Providers\\Pixabay\\Storage.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\Pixabay\\Storage.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\Pixabay\\Storage.md'"
+    },
+    {
+      "path": "06-Providers\\Pixabay\\Testing.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\Pixabay\\Testing.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\Pixabay\\Testing.md'"
+    },
+    {
+      "path": "06-Providers\\Pixabay\\Troubleshooting.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\Pixabay\\Troubleshooting.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\Pixabay\\Troubleshooting.md'"
+    },
+    {
+      "path": "06-Providers\\Provider-Architecture-Standard.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\Provider-Architecture-Standard.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\Provider-Architecture-Standard.md'"
+    },
+    {
+      "path": "06-Providers\\Provider-Checklist.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\Provider-Checklist.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\Provider-Checklist.md'"
+    },
+    {
+      "path": "06-Providers\\Provider-Development-Guide.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\Provider-Development-Guide.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\Provider-Development-Guide.md'"
+    },
+    {
+      "path": "06-Providers\\Provider-Registry.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\Provider-Registry.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\Provider-Registry.md'"
+    },
+    {
+      "path": "06-Providers\\Provider-Router.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\Provider-Router.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\Provider-Router.md'"
+    },
+    {
+      "path": "06-Providers\\README.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\README.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\README.md'"
+    },
+    {
+      "path": "06-Providers\\Secret-Manager-Guide.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\Secret-Manager-Guide.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\Secret-Manager-Guide.md'"
+    },
+    {
+      "path": "06-Providers\\Security-Requirements.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\Security-Requirements.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\Security-Requirements.md'"
+    },
+    {
+      "path": "06-Providers\\Shared-Guides\\Rate-Limits.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\Shared-Guides\\Rate-Limits.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\Shared-Guides\\Rate-Limits.md'"
+    },
+    {
+      "path": "06-Providers\\Subprocessor-Audit.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\Subprocessor-Audit.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\Subprocessor-Audit.md'"
+    },
+    {
+      "path": "06-Providers\\Testing-Standards.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\Testing-Standards.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\Testing-Standards.md'"
+    },
+    {
+      "path": "06-Providers\\unsplash\\API.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\unsplash\\API.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\unsplash\\API.md'"
+    },
+    {
+      "path": "06-Providers\\unsplash\\Architecture.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\unsplash\\Architecture.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\unsplash\\Architecture.md'"
+    },
+    {
+      "path": "06-Providers\\unsplash\\Attribution.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\unsplash\\Attribution.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\unsplash\\Attribution.md'"
+    },
+    {
+      "path": "06-Providers\\unsplash\\Authentication.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\unsplash\\Authentication.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\unsplash\\Authentication.md'"
+    },
+    {
+      "path": "06-Providers\\unsplash\\Caching.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\unsplash\\Caching.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\unsplash\\Caching.md'"
+    },
+    {
+      "path": "06-Providers\\unsplash\\Changelog.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\unsplash\\Changelog.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\unsplash\\Changelog.md'"
+    },
+    {
+      "path": "06-Providers\\unsplash\\Configuration.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\unsplash\\Configuration.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\unsplash\\Configuration.md'"
+    },
+    {
+      "path": "06-Providers\\unsplash\\Download-Tracking.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\unsplash\\Download-Tracking.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\unsplash\\Download-Tracking.md'"
+    },
+    {
+      "path": "06-Providers\\unsplash\\Endpoints.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\unsplash\\Endpoints.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\unsplash\\Endpoints.md'"
+    },
+    {
+      "path": "06-Providers\\unsplash\\Error-Handling.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\unsplash\\Error-Handling.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\unsplash\\Error-Handling.md'"
+    },
+    {
+      "path": "06-Providers\\unsplash\\Future-Roadmap.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\unsplash\\Future-Roadmap.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\unsplash\\Future-Roadmap.md'"
+    },
+    {
+      "path": "06-Providers\\unsplash\\Image-Model.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\unsplash\\Image-Model.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\unsplash\\Image-Model.md'"
+    },
+    {
+      "path": "06-Providers\\unsplash\\Licensing.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\unsplash\\Licensing.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\unsplash\\Licensing.md'"
+    },
+    {
+      "path": "06-Providers\\unsplash\\Mapping.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\unsplash\\Mapping.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\unsplash\\Mapping.md'"
+    },
+    {
+      "path": "06-Providers\\unsplash\\Rate-Limits.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\unsplash\\Rate-Limits.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\unsplash\\Rate-Limits.md'"
+    },
+    {
+      "path": "06-Providers\\unsplash\\README.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\unsplash\\README.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\unsplash\\README.md'"
+    },
+    {
+      "path": "06-Providers\\unsplash\\Search.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\unsplash\\Search.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\unsplash\\Search.md'"
+    },
+    {
+      "path": "06-Providers\\unsplash\\Secret-Manager.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\unsplash\\Secret-Manager.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\unsplash\\Secret-Manager.md'"
+    },
+    {
+      "path": "06-Providers\\unsplash\\Security.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\unsplash\\Security.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\unsplash\\Security.md'"
+    },
+    {
+      "path": "06-Providers\\unsplash\\Storage.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\unsplash\\Storage.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\unsplash\\Storage.md'"
+    },
+    {
+      "path": "06-Providers\\unsplash\\Testing.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\unsplash\\Testing.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\unsplash\\Testing.md'"
+    },
+    {
+      "path": "06-Providers\\unsplash\\Troubleshooting.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\06-Providers\\unsplash\\Troubleshooting.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\06-Providers\\unsplash\\Troubleshooting.md'"
+    },
+    {
+      "path": "07-Legal-and-Compliance\\Attribution.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\07-Legal-and-Compliance\\Attribution.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\07-Legal-and-Compliance\\Attribution.md'"
+    },
+    {
+      "path": "07-Legal-and-Compliance\\Legal-Modules\\legal_module_accessibility_report.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\07-Legal-and-Compliance\\Legal-Modules\\legal_module_accessibility_report.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\07-Legal-and-Compliance\\Legal-Modules\\legal_module_accessibility_report.md'"
+    },
+    {
+      "path": "07-Legal-and-Compliance\\Legal-Modules\\legal_module_architecture.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\07-Legal-and-Compliance\\Legal-Modules\\legal_module_architecture.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\07-Legal-and-Compliance\\Legal-Modules\\legal_module_architecture.md'"
+    },
+    {
+      "path": "07-Legal-and-Compliance\\Legal-Modules\\legal_module_cleanup_report.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\07-Legal-and-Compliance\\Legal-Modules\\legal_module_cleanup_report.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\07-Legal-and-Compliance\\Legal-Modules\\legal_module_cleanup_report.md'"
+    },
+    {
+      "path": "07-Legal-and-Compliance\\Legal-Modules\\legal_module_content_inventory.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\07-Legal-and-Compliance\\Legal-Modules\\legal_module_content_inventory.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\07-Legal-and-Compliance\\Legal-Modules\\legal_module_content_inventory.md'"
+    },
+    {
+      "path": "07-Legal-and-Compliance\\Legal-Modules\\legal_module_cookie_audit.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\07-Legal-and-Compliance\\Legal-Modules\\legal_module_cookie_audit.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\07-Legal-and-Compliance\\Legal-Modules\\legal_module_cookie_audit.md'"
+    },
+    {
+      "path": "07-Legal-and-Compliance\\Legal-Modules\\legal_module_data_rights_audit.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\07-Legal-and-Compliance\\Legal-Modules\\legal_module_data_rights_audit.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\07-Legal-and-Compliance\\Legal-Modules\\legal_module_data_rights_audit.md'"
+    },
+    {
+      "path": "07-Legal-and-Compliance\\Legal-Modules\\legal_module_documentation_migration.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\07-Legal-and-Compliance\\Legal-Modules\\legal_module_documentation_migration.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\07-Legal-and-Compliance\\Legal-Modules\\legal_module_documentation_migration.md'"
+    },
+    {
+      "path": "07-Legal-and-Compliance\\Legal-Modules\\legal_module_documentation_report.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\07-Legal-and-Compliance\\Legal-Modules\\legal_module_documentation_report.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\07-Legal-and-Compliance\\Legal-Modules\\legal_module_documentation_report.md'"
+    },
+    {
+      "path": "07-Legal-and-Compliance\\Legal-Modules\\legal_module_final_report.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\07-Legal-and-Compliance\\Legal-Modules\\legal_module_final_report.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\07-Legal-and-Compliance\\Legal-Modules\\legal_module_final_report.md'"
+    },
+    {
+      "path": "07-Legal-and-Compliance\\Legal-Modules\\legal_module_manual_review.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\07-Legal-and-Compliance\\Legal-Modules\\legal_module_manual_review.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\07-Legal-and-Compliance\\Legal-Modules\\legal_module_manual_review.md'"
+    },
+    {
+      "path": "07-Legal-and-Compliance\\Legal-Modules\\legal_module_migration_report.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\07-Legal-and-Compliance\\Legal-Modules\\legal_module_migration_report.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\07-Legal-and-Compliance\\Legal-Modules\\legal_module_migration_report.md'"
+    },
+    {
+      "path": "07-Legal-and-Compliance\\Legal-Modules\\legal_module_navigation_map.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\07-Legal-and-Compliance\\Legal-Modules\\legal_module_navigation_map.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\07-Legal-and-Compliance\\Legal-Modules\\legal_module_navigation_map.md'"
+    },
+    {
+      "path": "07-Legal-and-Compliance\\Legal-Modules\\legal_module_prebuild_audit.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\07-Legal-and-Compliance\\Legal-Modules\\legal_module_prebuild_audit.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\07-Legal-and-Compliance\\Legal-Modules\\legal_module_prebuild_audit.md'"
+    },
+    {
+      "path": "07-Legal-and-Compliance\\Legal-Modules\\legal_module_privacy_audit.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\07-Legal-and-Compliance\\Legal-Modules\\legal_module_privacy_audit.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\07-Legal-and-Compliance\\Legal-Modules\\legal_module_privacy_audit.md'"
+    },
+    {
+      "path": "07-Legal-and-Compliance\\Legal-Modules\\legal_module_redirect_map.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\07-Legal-and-Compliance\\Legal-Modules\\legal_module_redirect_map.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\07-Legal-and-Compliance\\Legal-Modules\\legal_module_redirect_map.md'"
+    },
+    {
+      "path": "07-Legal-and-Compliance\\Legal-Modules\\legal_module_route_map.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\07-Legal-and-Compliance\\Legal-Modules\\legal_module_route_map.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\07-Legal-and-Compliance\\Legal-Modules\\legal_module_route_map.md'"
+    },
+    {
+      "path": "07-Legal-and-Compliance\\Legal-Modules\\legal_module_seo_report.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\07-Legal-and-Compliance\\Legal-Modules\\legal_module_seo_report.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\07-Legal-and-Compliance\\Legal-Modules\\legal_module_seo_report.md'"
+    },
+    {
+      "path": "07-Legal-and-Compliance\\Legal-Modules\\legal_module_validation_report.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\07-Legal-and-Compliance\\Legal-Modules\\legal_module_validation_report.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\07-Legal-and-Compliance\\Legal-Modules\\legal_module_validation_report.md'"
+    },
+    {
+      "path": "07-Legal-and-Compliance\\Legal-Modules\\legal_module_versioning.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\07-Legal-and-Compliance\\Legal-Modules\\legal_module_versioning.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\07-Legal-and-Compliance\\Legal-Modules\\legal_module_versioning.md'"
+    },
+    {
+      "path": "07-Legal-and-Compliance\\Legal-Modules\\legal_pages_manual_review.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\07-Legal-and-Compliance\\Legal-Modules\\legal_pages_manual_review.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\07-Legal-and-Compliance\\Legal-Modules\\legal_pages_manual_review.md'"
+    },
+    {
+      "path": "07-Legal-and-Compliance\\Legal-Modules\\README.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\07-Legal-and-Compliance\\Legal-Modules\\README.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\07-Legal-and-Compliance\\Legal-Modules\\README.md'"
+    },
+    {
+      "path": "07-Legal-and-Compliance\\Licensing.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\07-Legal-and-Compliance\\Licensing.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\07-Legal-and-Compliance\\Licensing.md'"
+    },
+    {
+      "path": "08-Standards\\Standards-Modules\\README.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\08-Standards\\Standards-Modules\\README.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\08-Standards\\Standards-Modules\\README.md'"
+    },
+    {
+      "path": "08-Standards\\Standards-Modules\\standards_module_accessibility_report.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\08-Standards\\Standards-Modules\\standards_module_accessibility_report.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\08-Standards\\Standards-Modules\\standards_module_accessibility_report.md'"
+    },
+    {
+      "path": "08-Standards\\Standards-Modules\\standards_module_architecture.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\08-Standards\\Standards-Modules\\standards_module_architecture.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\08-Standards\\Standards-Modules\\standards_module_architecture.md'"
+    },
+    {
+      "path": "08-Standards\\Standards-Modules\\standards_module_cleanup_report.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\08-Standards\\Standards-Modules\\standards_module_cleanup_report.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\08-Standards\\Standards-Modules\\standards_module_cleanup_report.md'"
+    },
+    {
+      "path": "08-Standards\\Standards-Modules\\standards_module_documentation_migration.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\08-Standards\\Standards-Modules\\standards_module_documentation_migration.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\08-Standards\\Standards-Modules\\standards_module_documentation_migration.md'"
+    },
+    {
+      "path": "08-Standards\\Standards-Modules\\standards_module_documentation_report.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\08-Standards\\Standards-Modules\\standards_module_documentation_report.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\08-Standards\\Standards-Modules\\standards_module_documentation_report.md'"
+    },
+    {
+      "path": "08-Standards\\Standards-Modules\\standards_module_final_report.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\08-Standards\\Standards-Modules\\standards_module_final_report.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\08-Standards\\Standards-Modules\\standards_module_final_report.md'"
+    },
+    {
+      "path": "08-Standards\\Standards-Modules\\standards_module_integration_map.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\08-Standards\\Standards-Modules\\standards_module_integration_map.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\08-Standards\\Standards-Modules\\standards_module_integration_map.md'"
+    },
+    {
+      "path": "08-Standards\\Standards-Modules\\standards_module_manual_review.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\08-Standards\\Standards-Modules\\standards_module_manual_review.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\08-Standards\\Standards-Modules\\standards_module_manual_review.md'"
+    },
+    {
+      "path": "08-Standards\\Standards-Modules\\standards_module_migration_report.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\08-Standards\\Standards-Modules\\standards_module_migration_report.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\08-Standards\\Standards-Modules\\standards_module_migration_report.md'"
+    },
+    {
+      "path": "08-Standards\\Standards-Modules\\standards_module_prebuild_audit.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\08-Standards\\Standards-Modules\\standards_module_prebuild_audit.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\08-Standards\\Standards-Modules\\standards_module_prebuild_audit.md'"
+    },
+    {
+      "path": "08-Standards\\Standards-Modules\\standards_module_public_standards_map.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\08-Standards\\Standards-Modules\\standards_module_public_standards_map.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\08-Standards\\Standards-Modules\\standards_module_public_standards_map.md'"
+    },
+    {
+      "path": "08-Standards\\Standards-Modules\\standards_module_registry.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\08-Standards\\Standards-Modules\\standards_module_registry.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\08-Standards\\Standards-Modules\\standards_module_registry.md'"
+    },
+    {
+      "path": "08-Standards\\Standards-Modules\\standards_module_seo_report.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\08-Standards\\Standards-Modules\\standards_module_seo_report.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\08-Standards\\Standards-Modules\\standards_module_seo_report.md'"
+    },
+    {
+      "path": "08-Standards\\Standards-Modules\\standards_module_standards_review.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\08-Standards\\Standards-Modules\\standards_module_standards_review.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\08-Standards\\Standards-Modules\\standards_module_standards_review.md'"
+    },
+    {
+      "path": "08-Standards\\Standards-Modules\\standards_module_test_report.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\08-Standards\\Standards-Modules\\standards_module_test_report.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\08-Standards\\Standards-Modules\\standards_module_test_report.md'"
+    },
+    {
+      "path": "08-Standards\\Standards-Modules\\standards_module_validation_model.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\08-Standards\\Standards-Modules\\standards_module_validation_model.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\08-Standards\\Standards-Modules\\standards_module_validation_model.md'"
+    },
+    {
+      "path": "08-Standards\\Standards-Modules\\standards_module_validation_report.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\08-Standards\\Standards-Modules\\standards_module_validation_report.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\08-Standards\\Standards-Modules\\standards_module_validation_report.md'"
+    },
+    {
+      "path": "08-Standards\\Standards-Modules\\standards_module_versioning.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\08-Standards\\Standards-Modules\\standards_module_versioning.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\08-Standards\\Standards-Modules\\standards_module_versioning.md'"
+    },
+    {
+      "path": "08-Standards\\Standards-System\\architecture\\standards_architecture.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\08-Standards\\Standards-System\\architecture'"
+    },
+    {
+      "path": "08-Standards\\Standards-System\\discovery\\standards_prebuild_audit.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\08-Standards\\Standards-System\\discovery'"
+    },
+    {
+      "path": "08-Standards\\Standards-System\\final_report.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\08-Standards\\Standards-System\\final_report.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\08-Standards\\Standards-System\\final_report.md'"
+    },
+    {
+      "path": "08-Standards\\Standards-System\\framework-mapping\\adopted_standards_registry.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\08-Standards\\Standards-System\\framework-mapping'"
+    },
+    {
+      "path": "08-Standards\\Standards-System\\framework-mapping\\alignment_gap_report.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\08-Standards\\Standards-System\\framework-mapping'"
+    },
+    {
+      "path": "08-Standards\\Standards-System\\framework-mapping\\master_alignment_matrix.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\08-Standards\\Standards-System\\framework-mapping'"
+    },
+    {
+      "path": "08-Standards\\Standards-System\\framework-mapping\\standards_conflict_register.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\08-Standards\\Standards-System\\framework-mapping'"
+    },
+    {
+      "path": "08-Standards\\Standards-System\\governance\\external_standards_update_process.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\08-Standards\\Standards-System\\governance'"
+    },
+    {
+      "path": "08-Standards\\Standards-System\\governance\\standards_exception_process.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\08-Standards\\Standards-System\\governance'"
+    },
+    {
+      "path": "08-Standards\\Standards-System\\integration\\studioos_integration.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\08-Standards\\Standards-System\\integration'"
+    },
+    {
+      "path": "08-Standards\\Standards-System\\manual-review\\alignment_manual_review.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\08-Standards\\Standards-System\\manual-review'"
+    },
+    {
+      "path": "08-Standards\\Standards-System\\manual-review\\individual_standards_review.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\08-Standards\\Standards-System\\manual-review'"
+    },
+    {
+      "path": "08-Standards\\Standards-System\\manual-review\\standards_system_manual_review.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\08-Standards\\Standards-System\\manual-review'"
+    },
+    {
+      "path": "08-Standards\\Standards-System\\README.md",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\docs\\08-Standards\\Standards-System\\README.md' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\08-Standards\\Standards-System\\README.md'"
+    },
+    {
+      "path": "08-Standards\\Standards-System\\registry\\standards_registry.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\08-Standards\\Standards-System\\registry'"
+    },
+    {
+      "path": "08-Standards\\Standards-System\\testing\\standards_test_report.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\08-Standards\\Standards-System\\testing'"
+    },
+    {
+      "path": "08-Standards\\Standards-System\\validation\\validation_model.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\08-Standards\\Standards-System\\validation'"
+    },
+    {
+      "path": "10-Project-History\\CHANGELOG.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\10-Project-History'"
+    },
+    {
+      "path": "10-Project-History\\Future-Roadmap.md",
+      "error": "EPERM: operation not permitted, mkdir 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\10-Project-History'"
+    },
+    {
+      "path": "DOCUMENT-MANIFEST.txt",
+      "error": "EPERM: operation not permitted, copyfile 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\Mini-Post-App-Docs-Organized\\Docs\\DOCUMENT-MANIFEST.txt' -> 'D:\\Library\\workspace\\KKK\\MINIPOSTAPP\\mini-post-app-master\\docs\\DOCUMENT-MANIFEST.txt'"
+    }
+  ]
+}

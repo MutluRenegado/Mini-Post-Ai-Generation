@@ -1,0 +1,20 @@
+version: '3.8'
+
+services:
+  studio-os:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: studio_os_rc1
+    ports:
+      - "3000:3000"
+    environment:
+      - NODE_ENV=production
+      - PORT=3000
+    healthcheck:
+      test: ["CMD", "wget", "--spider", "-q", "http://localhost:3000/api/health"]
+      interval: 15s
+      timeout: 5s
+      retries: 3
+      start_period: 10s
+    restart: unless-stopped
